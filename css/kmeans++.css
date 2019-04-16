@@ -1,0 +1,9 @@
+/*Fix for IE ignoring width and height*/
+svg {
+    overflow: hidden;
+}
+
+.options{
+	margin: 5px;
+}
+       

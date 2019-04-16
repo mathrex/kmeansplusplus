@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+	<title> KMeans++ </title>
+	<link rel="shortcut icon" href="img/favicon.png" >
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap-combobox.css">
+	<link rel="stylesheet" type="text/css" href="css/kmeans++.css">
+<head>
+
+<body>
+<div class="options">
+	<form class="form-inline">
+		<div class="form-group">
+			<input id="init-vis" type="button" class="btn btn-primary" value="Init Vis">
+			<input id="next" type="button" class="btn btn-primary" value="Next">
+			<label for="url-or-nr"> Data file or number </label>
+			<!--<input class="form-control" list="location-list" id="url-or-nr" placeholder="Local file or number of random points" value="data/world-universities.json"/>
+			-->
+			<select id="url-or-nr" class="form-control combobox">
+				<option value="1000"> 1000 </option>
+				<option value="data/world-universities.json"> World Universities </option>
+				<option value="data/african-universities.json"> African Universities </option>
+				<option value="data/world-public_bookcase.json"> World Public Bookcases </option>
+				<option value="data/bucharest-cafes.json"> Bucharest Cafes </option>
+				<option value="data/world-volcanos.json"> World Volcanos </option>
+			</select>
+
+			<datalist id="location-list">
+				<option value="data/world-universities.json"/>
+				<option value="data/african-universities.json"/>
+				<option value="data/world-public_bookcase.json"/>
+				<option value="data/bucharest-cafes.json"/>
+				<option value="data/world-volcanos.json"/>
+			</datalist>
+
+			<!-- <input id="npoints" type="text" value="data/world-universities.json"> -->
+			<label for="k"> Nr. of centroids </label>
+			<input class="form-control" id="k" type="text" value="3">
+			
+			<label for="type"> Init type</label>
+			<select id="type" class="form-control">
+				<option value="random"> random </option>
+				<option value="kmeans++"> kmeans++ </option>
+			</select>
+			<label for="seed"> Seed</label>
+			<input class="form-control" id="seed" type="text" value="KMeans++">
+		</div>
+	</form>
+	<label id="info"> </label>
+</div>
+<br>
+<div>
+	<svg id="visualisation" style="width:90%;height:100%"></svg>
+</div>
+<script src="js/jquery-1.11.2.min.js"></script>
+<script src="js/bootstrap-combobox.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/seedrandom/2.3.11/seedrandom.min.js"></script>
+<script src="js/kmeans++.js"></script>
+<script>
+	$(document).ready(function(){
+	$('.combobox').combobox();
+	});
+	
+	document.getElementById("url-or-nr").value = "data/world-universities.json";
+	document.getElementById("init-vis").click();
+</script>
+</body>
+

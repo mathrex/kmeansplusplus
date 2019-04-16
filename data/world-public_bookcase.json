@@ -1,0 +1,2157 @@
+[
+    {
+        "lat": 52.3899293, 
+        "long": 9.7456087, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.3934773, 
+        "long": 9.6850598, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.3709371, 
+        "long": 9.7283593, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.9594248, 
+        "long": 8.6582026, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.942896, 
+        "long": 6.9361472, 
+        "name": "minibib"
+    }, 
+    {
+        "lat": 52.3124684, 
+        "long": 9.7892519, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 48.2019393, 
+        "long": 16.3451033, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 52.3754502, 
+        "long": 9.7958551, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.0617005, 
+        "long": 8.8069017, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.8806816, 
+        "long": 6.8913792, 
+        "name": "Öffentlicher Bücherschrank"
+    }, 
+    {
+        "lat": 51.4494408, 
+        "long": 7.0113801, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 50.0423356, 
+        "long": 8.1953445, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 52.3773463, 
+        "long": 9.6848238, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.2168271, 
+        "long": 16.343315, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 49.0072332, 
+        "long": 8.4072855, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.0814853, 
+        "long": 8.2262302, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 50.0123236, 
+        "long": 8.2655463, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.716753, 
+        "long": 7.1535569, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 50.736774, 
+        "long": 7.11386, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 52.362207, 
+        "long": 9.7537523, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 52.3421344, 
+        "long": 9.7138144, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.9916985, 
+        "long": 7.1310202, 
+        "name": "Öffentlicher Bücherschrank"
+    }, 
+    {
+        "lat": 50.8309647, 
+        "long": 12.9229769, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 51.5240224, 
+        "long": 9.9465123, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 50.2550748, 
+        "long": 8.6389994, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.7300818, 
+        "long": 7.0983201, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 50.1225806, 
+        "long": 8.645977, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.9822729, 
+        "long": 7.0253267, 
+        "name": "Öffentlicher Bücherschrank"
+    }, 
+    {
+        "lat": 43.0682876, 
+        "long": -89.423733, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.4365388, 
+        "long": 7.3338115, 
+        "name": "öffentlicher Bücherschrank"
+    }, 
+    {
+        "lat": 52.3756167, 
+        "long": 9.7069653, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.4296174, 
+        "long": 8.6819785, 
+        "name": "Öffentliches Bücherregal"
+    }, 
+    {
+        "lat": 49.4100046, 
+        "long": 8.6951917, 
+        "name": "Öffentliches Bücherregal"
+    }, 
+    {
+        "lat": 49.4179937, 
+        "long": 8.7574277, 
+        "name": "Öffentliches Bücherregal"
+    }, 
+    {
+        "lat": 52.3716452, 
+        "long": 9.7353393, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.2563697, 
+        "long": 7.1401768, 
+        "name": "Öffentlicher Bücherschrank"
+    }, 
+    {
+        "lat": 51.2988383, 
+        "long": 9.470315, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 51.2202794, 
+        "long": 6.7668908, 
+        "name": "Bücher Schrank"
+    }, 
+    {
+        "lat": 52.3849503, 
+        "long": 9.724453, 
+        "name": "Offener Bücherschrank Nordstadt"
+    }, 
+    {
+        "lat": 40.5505038, 
+        "long": -105.0588116, 
+        "name": "Edward Jones"
+    }, 
+    {
+        "lat": 52.3926776, 
+        "long": 9.8225337, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.4118502, 
+        "long": 7.2019251, 
+        "name": "Mercator Bücherschrank"
+    }, 
+    {
+        "lat": 49.8443941, 
+        "long": 9.6031306, 
+        "name": "Buchbahnhof"
+    }, 
+    {
+        "lat": 51.4454181, 
+        "long": 7.3366225, 
+        "name": "öffentlicher Bücherschrank"
+    }, 
+    {
+        "lat": 48.5492145, 
+        "long": 9.0343004, 
+        "name": "Buchwechselbaum"
+    }, 
+    {
+        "lat": 49.4148012, 
+        "long": 8.6906932, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 53.0947167, 
+        "long": 8.8021129, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.9239197, 
+        "long": 6.9670481, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 49.5944628, 
+        "long": 11.0050254, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 51.3125593, 
+        "long": 7.0894157, 
+        "name": "Lesbar"
+    }, 
+    {
+        "lat": 50.556729, 
+        "long": 6.2397596, 
+        "name": "RWE Bücherschrank"
+    }, 
+    {
+        "lat": 50.0025831, 
+        "long": 8.2722855, 
+        "name": "Offener Bücherschrank: Kinderbücher"
+    }, 
+    {
+        "lat": 52.3092512, 
+        "long": 10.5048372, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.1212852, 
+        "long": 8.6802109, 
+        "name": "Bücherschrank Nordend II"
+    }, 
+    {
+        "lat": 50.931391, 
+        "long": 6.9368757, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 50.7850779, 
+        "long": 6.0823413, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.338371, 
+        "long": 9.6273484, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 47.8800544, 
+        "long": 7.7308829, 
+        "name": "Bücherecke"
+    }, 
+    {
+        "lat": 53.7709959, 
+        "long": 7.7003378, 
+        "name": "Vertrauens Bibliothek"
+    }, 
+    {
+        "lat": 52.4005177, 
+        "long": 9.7751797, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.3947666, 
+        "long": 9.7612615, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.9961034, 
+        "long": 11.0262074, 
+        "name": "Open Book"
+    }, 
+    {
+        "lat": 50.0587051, 
+        "long": 8.291188, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.4322369, 
+        "long": 6.769211, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 54.1459583, 
+        "long": 9.2922797, 
+        "name": "Büchertauschbörse Albersdorf"
+    }, 
+    {
+        "lat": 48.2098216, 
+        "long": 16.3357541, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 45.708531, 
+        "long": 9.3582093, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.6007506, 
+        "long": 11.0018818, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 48.5582221, 
+        "long": 9.0502038, 
+        "name": "Buchwechselbaum"
+    }, 
+    {
+        "lat": 47.0790266, 
+        "long": 15.4489017, 
+        "name": "Lehrbücher-Tausch-Schenk Regal"
+    }, 
+    {
+        "lat": 53.858158, 
+        "long": 10.6640647, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 47.5543376, 
+        "long": 7.9490825, 
+        "name": "Öffentlicher Bücherschrank"
+    }, 
+    {
+        "lat": 47.6015569, 
+        "long": 7.6640209, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.9388957, 
+        "long": 8.1974312, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 50.9138068, 
+        "long": 7.1970173, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 51.6603461, 
+        "long": 6.9669169, 
+        "name": "RWE Bücherschrank"
+    }, 
+    {
+        "lat": 50.9330194, 
+        "long": 7.2886085, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 50.9299219, 
+        "long": 7.041066, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 51.9040802, 
+        "long": 7.6420735, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.1098867, 
+        "long": 13.7610089, 
+        "name": "Hellerauer Bücherzelle"
+    }, 
+    {
+        "lat": 36.0126054, 
+        "long": -78.920507, 
+        "name": "Old West Durham Peoples Library"
+    }, 
+    {
+        "lat": 51.4545146, 
+        "long": 7.0120954, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 51.4627522, 
+        "long": 6.9800867, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 50.6475033, 
+        "long": 6.1955847, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 52.282453, 
+        "long": 9.7813509, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 48.9988806, 
+        "long": 8.4732752, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.7747521, 
+        "long": 6.459252, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.0601604, 
+        "long": 8.8023558, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 49.086672, 
+        "long": 8.7820246, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 52.6138372, 
+        "long": 6.7443143, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 37.8921647, 
+        "long": -122.2875029, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 50.6824177, 
+        "long": 6.2098451, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 51.2530947, 
+        "long": 6.3920944, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.5524262, 
+        "long": 9.8713368, 
+        "name": "Bibi"
+    }, 
+    {
+        "lat": 52.9840975, 
+        "long": 9.8388027, 
+        "name": "Büchertauschbörse"
+    }, 
+    {
+        "lat": 34.8699075, 
+        "long": -82.4217196, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.8174222, 
+        "long": 7.148175, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 50.8151238, 
+        "long": 7.1570514, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 50.8068274, 
+        "long": 8.7688998, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 45.698536, 
+        "long": 4.8847481, 
+        "name": "Little Free library by Decitre Foundation"
+    }, 
+    {
+        "lat": 52.6191817, 
+        "long": 10.0709001, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.6214429, 
+        "long": 10.0695743, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.6238303, 
+        "long": 10.0860562, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.6887158, 
+        "long": 6.483283, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 53.446405, 
+        "long": 8.5212223, 
+        "name": "Büchertauschschrank"
+    }, 
+    {
+        "lat": 52.2999759, 
+        "long": 7.1341267, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.3117275, 
+        "long": 9.3565659, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.0059414, 
+        "long": 7.8469687, 
+        "name": "Öffentlicher Bücherschrank"
+    }, 
+    {
+        "lat": 53.0677539, 
+        "long": 8.791228, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 36.5480751, 
+        "long": 136.6768741, 
+        "name": "地蔵文庫"
+    }, 
+    {
+        "lat": 50.9034328, 
+        "long": 8.7243284, 
+        "name": "Bücherwürfel"
+    }, 
+    {
+        "lat": 48.8703817, 
+        "long": 12.582946, 
+        "name": "Bookcrossing - öffentlicher Bücherschrank"
+    }, 
+    {
+        "lat": 51.4576218, 
+        "long": 7.2711498, 
+        "name": "Bücherschrank der Mercatorstiftung"
+    }, 
+    {
+        "lat": 47.6348285, 
+        "long": -122.3678767, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6352291, 
+        "long": -122.3611254, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6354371, 
+        "long": -122.3691588, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6360161, 
+        "long": -122.3632067, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6360563, 
+        "long": -122.3635408, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6380056, 
+        "long": -122.3597605, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6397472, 
+        "long": -122.3703871, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6423122, 
+        "long": -122.3596549, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6433235, 
+        "long": -122.3564015, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6590651, 
+        "long": -122.3309314, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6627918, 
+        "long": -122.3260786, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 51.1246272, 
+        "long": 6.6602442, 
+        "name": "RWE Bücherschrank"
+    }, 
+    {
+        "lat": 47.6331595, 
+        "long": -122.3557352, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6332355, 
+        "long": -122.3485177, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6340544, 
+        "long": -122.3497776, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6356366, 
+        "long": -122.3526532, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6390715, 
+        "long": -122.355674, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6394988, 
+        "long": -122.3558193, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 48.3870168, 
+        "long": 18.3861348, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6398796, 
+        "long": -122.3039421, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 50.9428752, 
+        "long": 6.9468548, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 53.8661151, 
+        "long": 10.7034431, 
+        "name": "Öffentlicher Bücherschrank"
+    }, 
+    {
+        "lat": 52.4876911, 
+        "long": 13.2632817, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.6312368, 
+        "long": -122.3607318, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6780965, 
+        "long": -122.3654225, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6791839, 
+        "long": -122.2918082, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6812405, 
+        "long": -122.3658989, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6848247, 
+        "long": -122.3640519, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6851819, 
+        "long": -122.366381, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.6875899, 
+        "long": -122.3508686, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 47.687753, 
+        "long": -122.351331, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 49.2295911, 
+        "long": 9.1621085, 
+        "name": "Öffentliches Bücherregal"
+    }, 
+    {
+        "lat": 47.5759861, 
+        "long": -122.3895807, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 54.2931879, 
+        "long": 12.3312166, 
+        "name": "Bücherzelle"
+    }, 
+    {
+        "lat": 48.9233266, 
+        "long": 8.4756921, 
+        "name": "Bücherbox"
+    }, 
+    {
+        "lat": 37.3533651, 
+        "long": -122.0192511, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 54.0862892, 
+        "long": 12.1092185, 
+        "name": "Book Lounge"
+    }, 
+    {
+        "lat": 48.2677757, 
+        "long": 10.9871455, 
+        "name": "Bücher Turm"
+    }, 
+    {
+        "lat": 47.6793976, 
+        "long": -122.3151326, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 37.3696542, 
+        "long": -122.0610695, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 45.7220703, 
+        "long": 4.8588749, 
+        "name": "Boîte à lire du Fonds Decitre"
+    }, 
+    {
+        "lat": 45.6968805, 
+        "long": 4.8618317, 
+        "name": "Boîte à lire du Fonds Decitre"
+    }, 
+    {
+        "lat": 47.6729304, 
+        "long": -122.3822712, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 50.2597325, 
+        "long": 10.9668032, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 50.7784193, 
+        "long": 6.0819141, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.4887528, 
+        "long": 9.1481905, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 49.4989286, 
+        "long": 8.4669566, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 48.4240865, 
+        "long": -122.3041378, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 41.8802785, 
+        "long": 12.4756244, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 43.083702, 
+        "long": -89.3630813, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 24.1365487, 
+        "long": 120.6847372, 
+        "name": "Reading Bar 讀冊吧"
+    }, 
+    {
+        "lat": 24.1364264, 
+        "long": 120.6848012, 
+        "name": "Reading Bar 讀冊吧"
+    }, 
+    {
+        "lat": 48.7800847, 
+        "long": 8.2695681, 
+        "name": "Bücherschrank Ebersteinburg"
+    }, 
+    {
+        "lat": 50.775302, 
+        "long": 7.2843011, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 49.6835949, 
+        "long": 8.3883429, 
+        "name": "offener Bücherschrank"
+    }, 
+    {
+        "lat": 49.6856843, 
+        "long": 8.4540704, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.4422807, 
+        "long": 7.3101694, 
+        "name": "Mini-Bib"
+    }, 
+    {
+        "lat": 48.2096551, 
+        "long": 14.2586377, 
+        "name": "Öffentlicher Bücherschrank im Erlebnisbad Ansfelden"
+    }, 
+    {
+        "lat": 47.6579151, 
+        "long": -122.3398155, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 19.4702312, 
+        "long": -97.6815854, 
+        "name": "Biblioteca Publica"
+    }, 
+    {
+        "lat": 53.1182492, 
+        "long": 9.7875281, 
+        "name": "Tauschbücherei"
+    }, 
+    {
+        "lat": 48.676529, 
+        "long": 10.1531586, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.7068039, 
+        "long": -122.3136815, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": 40.5421826, 
+        "long": -105.0926619, 
+        "name": "Barking Beagle's Little Free Library"
+    }, 
+    {
+        "lat": 40.5881599, 
+        "long": -105.0859558, 
+        "name": "Whitcomb Street Lending Library"
+    }, 
+    {
+        "lat": 40.5046766, 
+        "long": -105.076367, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 40.5402661, 
+        "long": -105.0568005, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 40.540651, 
+        "long": -105.1197369, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 40.5510115, 
+        "long": -105.1281838, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 40.5569822, 
+        "long": -105.1058599, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 40.5613313, 
+        "long": -105.0603891, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 40.5726317, 
+        "long": -105.1313133, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 40.5949375, 
+        "long": -105.1149659, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.2049849, 
+        "long": 8.0374037, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.5606684, 
+        "long": 9.9030774, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.3129755, 
+        "long": 9.6006209, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.641332, 
+        "long": -122.3607444, 
+        "name": "Little Free Library"
+    }, 
+    {
+        "lat": -23.3354177, 
+        "long": -69.8454819, 
+        "name": "Biblioteca"
+    }, 
+    {
+        "lat": 45.5313084, 
+        "long": -73.5663196, 
+        "name": "Gauthier"
+    }, 
+    {
+        "lat": 45.5205527, 
+        "long": -73.8548441, 
+        "name": "Petite bibliothèque"
+    }, 
+    {
+        "lat": 45.4288519, 
+        "long": -73.638674, 
+        "name": "Microbiblio,org au Carrefour Jeunesse Emploi de LaSalle"
+    }, 
+    {
+        "lat": 45.429662, 
+        "long": -73.633248, 
+        "name": "Microbiblio.org"
+    }, 
+    {
+        "lat": 45.421221, 
+        "long": -73.6364625, 
+        "name": "Microbiblio.org à la Table de développement social de LaSalle"
+    }, 
+    {
+        "lat": 45.4837011, 
+        "long": -73.5767996, 
+        "name": "Le sentier de la bourgogne"
+    }, 
+    {
+        "lat": 45.4226913, 
+        "long": -73.6480121, 
+        "name": "Microbiblio.org à la Maison des jeunes de LaSalle"
+    }, 
+    {
+        "lat": 45.4213471, 
+        "long": -73.6294566, 
+        "name": "Microbiblio.org au Centre sportif Dollard-St-Laurent"
+    }, 
+    {
+        "lat": 45.4307218, 
+        "long": -73.5944806, 
+        "name": "Microbiblio.org au Centre du Vieux-Moulin LaSalle"
+    }, 
+    {
+        "lat": 45.524993, 
+        "long": -73.5847874, 
+        "name": "Biblio-libre@Plein milieu"
+    }, 
+    {
+        "lat": 45.5139656, 
+        "long": -73.5567183, 
+        "name": "Biblio-libre@Maison du père - Refuge"
+    }, 
+    {
+        "lat": 45.5686581, 
+        "long": -73.5986567, 
+        "name": "Croque-livre"
+    }, 
+    {
+        "lat": 45.5719684, 
+        "long": -73.6275751, 
+        "name": "Croque-livres"
+    }, 
+    {
+        "lat": 45.5805007, 
+        "long": -73.6222237, 
+        "name": "Croque-livres"
+    }, 
+    {
+        "lat": 45.4678555, 
+        "long": -73.5487821, 
+        "name": "p'tite bibliothèque"
+    }, 
+    {
+        "lat": 45.5423101, 
+        "long": -73.6239441, 
+        "name": "Croque-livres"
+    }, 
+    {
+        "lat": 45.5747645, 
+        "long": -73.6836766, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 45.5592809, 
+        "long": -73.6772557, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 45.5360011, 
+        "long": -73.5699325, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 45.6503675, 
+        "long": -73.5775808, 
+        "name": "croque-livres"
+    }, 
+    {
+        "lat": 36.7217343, 
+        "long": -4.4386362, 
+        "name": "Miguel de Cervantes"
+    }, 
+    {
+        "lat": 49.4512959, 
+        "long": 11.0534123, 
+        "name": "NA"
+    }, 
+    {
+        "lat": -39.0344407, 
+        "long": -67.5389173, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.1157459, 
+        "long": 9.1682917, 
+        "name": "Horkheimer Bücherschrank"
+    }, 
+    {
+        "lat": 50.9056422, 
+        "long": 7.4081487, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 54.0891092, 
+        "long": 9.0738864, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 14.1867832, 
+        "long": -91.3053447, 
+        "name": "Biblioteca Municipal"
+    }, 
+    {
+        "lat": 47.5834883, 
+        "long": 13.5253867, 
+        "name": "Gosauer Bücherzelle"
+    }, 
+    {
+        "lat": 47.5850727, 
+        "long": 13.5356179, 
+        "name": "Gosauer Bücherzelle"
+    }, 
+    {
+        "lat": 48.9278838, 
+        "long": 8.5680529, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.0763032, 
+        "long": 13.7499741, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.7604571, 
+        "long": 8.165264, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.9319761, 
+        "long": 8.9571654, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.5040184, 
+        "long": 9.4612449, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.279024, 
+        "long": 9.4798323, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.0634607, 
+        "long": 8.2542956, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.080269, 
+        "long": 8.2452197, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.8844555, 
+        "long": 7.0580309, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.9464208, 
+        "long": 11.576548, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.1700608, 
+        "long": 8.6961463, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.1766486, 
+        "long": 8.629417, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.1836952, 
+        "long": 8.6660344, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.1945851, 
+        "long": 8.8041122, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.3122058, 
+        "long": 7.2036863, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.3125673, 
+        "long": 7.0894414, 
+        "name": "Lesbar"
+    }, 
+    {
+        "lat": 49.9711742, 
+        "long": 9.1479485, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.9733393, 
+        "long": 9.1512666, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.9746615, 
+        "long": 9.1504036, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.9771602, 
+        "long": 9.1435557, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.9800624, 
+        "long": 9.1410398, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.9605081, 
+        "long": 10.9153295, 
+        "name": "Lesebox"
+    }, 
+    {
+        "lat": 50.3584122, 
+        "long": 7.610609, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.1600927, 
+        "long": 11.5633828, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.4275436, 
+        "long": 10.122339, 
+        "name": "Buchtauschbörse"
+    }, 
+    {
+        "lat": 51.7642516, 
+        "long": 6.3892283, 
+        "name": "RWE Bücherschrank"
+    }, 
+    {
+        "lat": 51.3266476, 
+        "long": 6.969874, 
+        "name": "RWE Bücherschrank"
+    }, 
+    {
+        "lat": 50.8972242, 
+        "long": 14.804295, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 54.3542046, 
+        "long": 12.7183686, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.477201, 
+        "long": 13.4225984, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.2826289, 
+        "long": 11.1481794, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.1555968, 
+        "long": 9.8198954, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.2808034, 
+        "long": 9.5907886, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.9705597, 
+        "long": 7.6240933, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.8458955, 
+        "long": 11.6262394, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.4825136, 
+        "long": 11.6642046, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.1903516, 
+        "long": 6.5134492, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.3742465, 
+        "long": 9.7612717, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 50.7299331, 
+        "long": 6.1769144, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.3362154, 
+        "long": 9.6464641, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.2805551, 
+        "long": 8.2394695, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.2352939, 
+        "long": 8.1691723, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.9284405, 
+        "long": 7.8320296, 
+        "name": "BücherZelle"
+    }, 
+    {
+        "lat": 50.1666031, 
+        "long": 8.6802011, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.9335107, 
+        "long": 8.8765602, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.0582476, 
+        "long": 8.7950734, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.9105327, 
+        "long": 13.9607509, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.3885273, 
+        "long": 8.0620123, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.41792, 
+        "long": 8.0597532, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.7417836, 
+        "long": 12.747207, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.8072454, 
+        "long": 4.9329197, 
+        "name": "Twiet-o-theek"
+    }, 
+    {
+        "lat": 49.3560176, 
+        "long": 8.7761636, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.3392715, 
+        "long": 8.7999047, 
+        "name": "Offenes Bücherregal Mauer"
+    }, 
+    {
+        "lat": 49.339143, 
+        "long": 8.8000149, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.372401, 
+        "long": 8.7709725, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.3930489, 
+        "long": 8.7993959, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 55.833357, 
+        "long": 12.090845, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.9196926, 
+        "long": 7.693247, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.7306633, 
+        "long": 7.5560184, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.6145, 
+        "long": 7.6610026, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.9672077, 
+        "long": 11.1558534, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.1378539, 
+        "long": 8.4509242, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.9761096, 
+        "long": 8.191457, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.1748223, 
+        "long": 14.5327273, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.1788666, 
+        "long": 14.5222291, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.4761911, 
+        "long": 6.8599826, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.7940026, 
+        "long": 13.0558663, 
+        "name": "Büchertankstelle ARGE Nonntal"
+    }, 
+    {
+        "lat": 47.7769333, 
+        "long": 13.040444, 
+        "name": "Büchertankstelle Gneis"
+    }, 
+    {
+        "lat": 47.7968969, 
+        "long": 13.0542525, 
+        "name": "Büchertankstelle Künstlerhaus"
+    }, 
+    {
+        "lat": 47.8089239, 
+        "long": 13.0307866, 
+        "name": "Büchertankstelle Literaturhaus"
+    }, 
+    {
+        "lat": 51.2772029, 
+        "long": 7.1991874, 
+        "name": "Bücher BOX"
+    }, 
+    {
+        "lat": 51.2731452, 
+        "long": 7.1515419, 
+        "name": "Bücher BOX"
+    }, 
+    {
+        "lat": 51.2479173, 
+        "long": 7.0959443, 
+        "name": "Bücher BOX"
+    }, 
+    {
+        "lat": 51.26965, 
+        "long": 7.2369949, 
+        "name": "Bücher BOX"
+    }, 
+    {
+        "lat": 51.2259115, 
+        "long": 7.1441887, 
+        "name": "Bücher BOX"
+    }, 
+    {
+        "lat": 47.8821895, 
+        "long": 7.7302532, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.8838797, 
+        "long": 7.7324937, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 45.5101571, 
+        "long": -73.5508775, 
+        "name": "Biblio-libre@accueil Bonneau"
+    }, 
+    {
+        "lat": 45.5110669, 
+        "long": -73.5671424, 
+        "name": "Biblio-libre@Centre d'amitié Autochtone de montréal"
+    }, 
+    {
+        "lat": 45.5137509, 
+        "long": -73.5557592, 
+        "name": "Biblio-libre@Maison du père ( résidence)"
+    }, 
+    {
+        "lat": 45.5204867, 
+        "long": -73.551017, 
+        "name": "Biblio-libre@P.A.S de la rue"
+    }, 
+    {
+        "lat": 45.5110303, 
+        "long": -73.5512734, 
+        "name": "Biblio-libre@Maison Joseph Vincent ( Accueil Bonneau)"
+    }, 
+    {
+        "lat": 45.5089717, 
+        "long": -73.5591084, 
+        "name": "Biblio-libre@Refuge Projet Autochtones du Québec"
+    }, 
+    {
+        "lat": 45.5069198, 
+        "long": -73.5576086, 
+        "name": "Biblio-libre@Café Mission OBM"
+    }, 
+    {
+        "lat": 54.0775602, 
+        "long": 12.1065146, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 54.0912911, 
+        "long": 12.1230818, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 54.0930741, 
+        "long": 12.0978031, 
+        "name": "Tauschkiste"
+    }, 
+    {
+        "lat": 54.0930972, 
+        "long": 12.0975926, 
+        "name": "Tauschkiste"
+    }, 
+    {
+        "lat": 51.8285938, 
+        "long": 9.4455937, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.2013467, 
+        "long": 8.5722113, 
+        "name": "Der Bücherwurm"
+    }, 
+    {
+        "lat": 52.1559127, 
+        "long": 11.6324209, 
+        "name": "Bücherzelle"
+    }, 
+    {
+        "lat": 52.5381773, 
+        "long": 13.4193981, 
+        "name": "Bücherwald"
+    }, 
+    {
+        "lat": 45.0473455, 
+        "long": 6.0446998, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.9377849, 
+        "long": 8.2729904, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.1400132, 
+        "long": 8.9026026, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.554133, 
+        "long": 12.8084507, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.4215077, 
+        "long": 6.7526023, 
+        "name": "Öffentlicher Bücherschrank"
+    }, 
+    {
+        "lat": 48.7460836, 
+        "long": 9.2325712, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.6721352, 
+        "long": 8.347492, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.4382427, 
+        "long": 7.0056095, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.4626289, 
+        "long": 6.9799864, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 29.7200281, 
+        "long": -84.74991, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 54.7819077, 
+        "long": 9.4351628, 
+        "name": "OBCZ Flensburg"
+    }, 
+    {
+        "lat": 54.3204089, 
+        "long": 10.1336451, 
+        "name": "OBCZ Kiel"
+    }, 
+    {
+        "lat": 50.0258721, 
+        "long": 8.8842172, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.6254951, 
+        "long": 7.5119843, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 58.3790513, 
+        "long": 26.7468963, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.1678054, 
+        "long": 6.934358, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.1698923, 
+        "long": 6.9358147, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.8358883, 
+        "long": 9.224795, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.7745368, 
+        "long": 7.0711829, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 53.3108627, 
+        "long": 10.2849824, 
+        "name": "Böckerschapp"
+    }, 
+    {
+        "lat": 49.3351734, 
+        "long": 8.8503689, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.4627479, 
+        "long": 13.3895475, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.555609, 
+        "long": 6.7650904, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.7125059, 
+        "long": 8.6925201, 
+        "name": "Reichenbacher offene Bibliothek"
+    }, 
+    {
+        "lat": 53.2810395, 
+        "long": 9.7127936, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.0098148, 
+        "long": 4.3476945, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.8745953, 
+        "long": 8.0174493, 
+        "name": "Bürgerstiftung Siegen"
+    }, 
+    {
+        "lat": 52.0031079, 
+        "long": 4.3340067, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.0043097, 
+        "long": 4.3662315, 
+        "name": "buurt bib"
+    }, 
+    {
+        "lat": 54.6813926, 
+        "long": 8.7565234, 
+        "name": "OBCZ Westküste"
+    }, 
+    {
+        "lat": 51.4421227, 
+        "long": 7.3176077, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.6221801, 
+        "long": -122.3318128, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.8123729, 
+        "long": 6.9711927, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.8239983, 
+        "long": 6.9866119, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.8248766, 
+        "long": 6.9816147, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.3223041, 
+        "long": -0.1189947, 
+        "name": "Telephone box library"
+    }, 
+    {
+        "lat": 51.5741591, 
+        "long": 9.3097592, 
+        "name": "Büchertauschbörse"
+    }, 
+    {
+        "lat": 44.4563636, 
+        "long": -73.2139044, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.5856997, 
+        "long": 8.6831647, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.9653158, 
+        "long": 7.6215862, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.7593825, 
+        "long": 11.5458971, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.4658333, 
+        "long": 9.2257983, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.6640914, 
+        "long": 9.3747581, 
+        "name": "RWE Bücherschrank"
+    }, 
+    {
+        "lat": 47.5665192, 
+        "long": 7.9145362, 
+        "name": "Öffentlicher Bücherschrank"
+    }, 
+    {
+        "lat": 47.5511989, 
+        "long": 7.9488036, 
+        "name": "Öffentlicher Bücherschrank"
+    }, 
+    {
+        "lat": 52.632, 
+        "long": 10.0442167, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.0149047, 
+        "long": 7.0822359, 
+        "name": "NA"
+    }, 
+    {
+        "lat": -26.5678201, 
+        "long": -54.7664945, 
+        "name": "Biblioteca Domingo Faustino Sarmiento"
+    }, 
+    {
+        "lat": 54.121875, 
+        "long": 13.8414648, 
+        "name": "Lesebaum"
+    }, 
+    {
+        "lat": 54.1199886, 
+        "long": 13.8370056, 
+        "name": "Buchtauschzelle"
+    }, 
+    {
+        "lat": 50.0091443, 
+        "long": 8.2185012, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 42.3809297, 
+        "long": -2.0588023, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.1589698, 
+        "long": 9.8215544, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.3068051, 
+        "long": 9.4854149, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 51.3157945, 
+        "long": 9.473476, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 51.3230352, 
+        "long": 9.4459656, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 51.3021239, 
+        "long": 9.5030093, 
+        "name": "Flussterminal"
+    }, 
+    {
+        "lat": 18.4123975, 
+        "long": -66.3301084, 
+        "name": "Biblioteca Digital"
+    }, 
+    {
+        "lat": 52.5287035, 
+        "long": 12.3385254, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 53.5005463, 
+        "long": 7.0940227, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.9057396, 
+        "long": 7.664903, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 48.9002613, 
+        "long": 8.1990106, 
+        "name": "Bücherschrank Rathaus Steinmauern"
+    }, 
+    {
+        "lat": 51.3341759, 
+        "long": 7.279103, 
+        "name": "Hasslinghauser Bücherzelle"
+    }, 
+    {
+        "lat": 51.4748713, 
+        "long": 9.9290184, 
+        "name": "Bücherzelle"
+    }, 
+    {
+        "lat": 50.8276566, 
+        "long": 7.1178052, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 51.4779253, 
+        "long": 7.226363, 
+        "name": "Bücher im Cafe Ferdinand"
+    }, 
+    {
+        "lat": 52.4029056, 
+        "long": 9.7988354, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 43.3580981, 
+        "long": -8.4171615, 
+        "name": "Biblioteca Municipal Sagrada Familia"
+    }, 
+    {
+        "lat": 49.4485555, 
+        "long": 1.094048, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 38.2723039, 
+        "long": -4.3245857, 
+        "name": "Biblioteca Municipal"
+    }, 
+    {
+        "lat": 49.1451956, 
+        "long": 9.217414, 
+        "name": "Bücherschrank"
+    }, 
+    {
+        "lat": 41.0529923, 
+        "long": -83.6503835, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.7684371, 
+        "long": 6.8382611, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 54.1779521, 
+        "long": 12.0794872, 
+        "name": "Bücherbüchse"
+    }, 
+    {
+        "lat": 51.7173401, 
+        "long": 9.182239, 
+        "name": "RWE Bücherschrank"
+    }, 
+    {
+        "lat": 53.8324853, 
+        "long": 10.6940482, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 53.7449512, 
+        "long": 9.6999324, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.066993, 
+        "long": 7.883282, 
+        "name": "Offener Bücherschrank"
+    }, 
+    {
+        "lat": 47.994848, 
+        "long": 7.84448, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.987725, 
+        "long": 7.90537, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.96565, 
+        "long": 7.856383, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.82218, 
+        "long": 4.3451222, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 45.7558135, 
+        "long": 4.847832, 
+        "name": "Livres à Vous"
+    }, 
+    {
+        "lat": 52.4200874, 
+        "long": 9.7997158, 
+        "name": "NA"
+    }, 
+    {
+        "lat": -38.5267065, 
+        "long": -70.3695118, 
+        "name": "Biblioteca Popular Palighuen"
+    }, 
+    {
+        "lat": -38.557217, 
+        "long": -58.7389424, 
+        "name": "ANDRES FERREIRA"
+    }, 
+    {
+        "lat": 50.5924581, 
+        "long": 10.0633566, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.5909334, 
+        "long": 10.0650281, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.0279761, 
+        "long": 8.4603469, 
+        "name": "Laurentius Bücherbox"
+    }, 
+    {
+        "lat": 50.932295, 
+        "long": 6.8568659, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.562608, 
+        "long": 16.0788157, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 48.5634033, 
+        "long": 16.0791056, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 52.4131922, 
+        "long": 13.2664622, 
+        "name": "Bücherboxx"
+    }, 
+    {
+        "lat": 52.1777373, 
+        "long": 4.5095455, 
+        "name": "dierenboeken voor kinderen"
+    }, 
+    {
+        "lat": 51.9091439, 
+        "long": 10.4264418, 
+        "name": "NA"
+    }, 
+    {
+        "lat": -31.4135921, 
+        "long": -64.1702113, 
+        "name": "Biblioteca Popular Velez Sarsfield"
+    }, 
+    {
+        "lat": 25.0164685, 
+        "long": 121.4655036, 
+        "name": "漂書站"
+    }, 
+    {
+        "lat": 54.5045747, 
+        "long": 36.3009185, 
+        "name": "Уличная библиотека"
+    }, 
+    {
+        "lat": 50.6871009, 
+        "long": 7.3368469, 
+        "name": "Oberhauer Bücherkiste"
+    }, 
+    {
+        "lat": 53.1852848, 
+        "long": 8.2426951, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 51.842123, 
+        "long": 12.4231299, 
+        "name": "Öffentlicher Bücherschrank von Wörlitz"
+    }, 
+    {
+        "lat": 53.4766569, 
+        "long": 9.7021932, 
+        "name": "Tauschbücherei"
+    }, 
+    {
+        "lat": 47.0713329, 
+        "long": 15.4253441, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.0716276, 
+        "long": 15.4363388, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.0728198, 
+        "long": 15.4010293, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.1297543, 
+        "long": 14.4687291, 
+        "name": "Knihobudka"
+    }, 
+    {
+        "lat": 51.531401, 
+        "long": 9.2850698, 
+        "name": "Buch-Bude"
+    }, 
+    {
+        "lat": 42.1071896, 
+        "long": 24.8498963, 
+        "name": "Читалище"
+    }, 
+    {
+        "lat": 54.5026576, 
+        "long": 9.5417184, 
+        "name": "Bücherbahnhof"
+    }, 
+    {
+        "lat": 37.1257324, 
+        "long": -5.4464191, 
+        "name": "NA"
+    }, 
+    {
+        "lat": -34.7660388, 
+        "long": -61.8921789, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 39.9321249, 
+        "long": 116.4497695, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 47.8823612, 
+        "long": 7.7315052, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.4751233, 
+        "long": 8.6651478, 
+        "name": "Schriesheimer Bücherregal"
+    }, 
+    {
+        "lat": 49.9908749, 
+        "long": 8.0235994, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 50.8884889, 
+        "long": 8.7707044, 
+        "name": "Büchertauschbörse Alte Schule"
+    }, 
+    {
+        "lat": 49.3169313, 
+        "long": 8.4381704, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 41.7485715, 
+        "long": 1.90823, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 49.4797967, 
+        "long": 10.9875741, 
+        "name": "NA"
+    }
+]

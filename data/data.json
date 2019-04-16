@@ -1,0 +1,44 @@
+[
+    {"name":"Java", "proficiency":70},
+    {"name":"C/C++", "proficiency":60},
+    {"name":"C#", "proficiency":80},
+    
+    {"name":"HTML", "proficiency":80},
+    {"name":"CSS", "proficiency":70},
+    {"name":"JavaScript", "proficiency":70},
+    {"name":"D3.js", "proficiency":50},
+    
+    {"name":"Python", "proficiency":70},
+    {"name":"Ruby on Rails", "proficiency":30},
+    {"name":"PHP", "proficiency":60},
+    {"name":"Bash", "proficiency":55},
+    {"name":"Matlab", "proficiency":40},
+    
+    {"name":"Game Development", "proficiency":60},
+    {"name":"Game programming", "proficiency":65},
+    {"name":"OpenGL/GLSL", "proficiency":30},
+    {"name":"Artificial Intelligence", "proficiency":35},
+    {"name":"ERP", "proficiency":50},
+    
+    {"name":"MySQL", "proficiency":70},
+    {"name":"Oracle SQL", "proficiency":52},
+    {"name":"PostgreSQL", "proficiency":40},
+    {"name":"Oracle Reports", "proficiency":35},
+    {"name":"Oracle Forms", "proficiency":35},
+    
+    {"name":"Haskell", "proficiency":30},
+    {"name":"Scheme", "proficiency":35},
+    {"name":"Prolog", "proficiency":45},
+    
+    {"name":"Agile development", "proficiency":45},
+    {"name":"Scrum", "proficiency":35},
+    {"name":"Git", "proficiency":45},
+    {"name":"Mercurial", "proficiency":40},
+    {"name":"CVS", "proficiency":45},
+    {"name":"Subversion", "proficiency":35},
+    {"name":"Eclipse", "proficiency":60},
+    {"name":"Visual Studio", "proficiency":40},
+    {"name":"Netbeans", "proficiency":60},
+    {"name":"MonoDevelop", "proficiency":55}
+    
+]

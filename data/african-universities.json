@@ -1,0 +1,4032 @@
+[
+    {
+        "lat": 32.6573034, 
+        "long": 51.6758982, 
+        "name": "Art University"
+    }, 
+    {
+        "lat": 36.3218591, 
+        "long": 50.0347674, 
+        "name": "Islamic Azad University Qazvin"
+    }, 
+    {
+        "lat": 35.169781, 
+        "long": 33.3518252, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 6.4636522, 
+        "long": 3.2017248, 
+        "name": "Lagos State University"
+    }, 
+    {
+        "lat": 35.1794444, 
+        "long": 33.3803423, 
+        "name": "Frederick University"
+    }, 
+    {
+        "lat": 35.159639, 
+        "long": 33.3385947, 
+        "name": "European Univercity Of Cyprus"
+    }, 
+    {
+        "lat": 23.5911357, 
+        "long": 58.1698005, 
+        "name": "Sultan Qaboos University"
+    }, 
+    {
+        "lat": 35.1699003, 
+        "long": 33.3533186, 
+        "name": "UCY Archaeological department"
+    }, 
+    {
+        "lat": 36.575103, 
+        "long": 36.1562566, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 28.4829518, 
+        "long": -16.3223762, 
+        "name": "Escuela Tecnica Superior de Ingenieria Informatica"
+    }, 
+    {
+        "lat": 38.781528, 
+        "long": -9.160719, 
+        "name": "Instituto Superior de Gestão"
+    }, 
+    {
+        "lat": 38.7814544, 
+        "long": -9.1606589, 
+        "name": "Instituto Superior Novas Profissões"
+    }, 
+    {
+        "lat": -6.1658327, 
+        "long": 39.1917329, 
+        "name": "The State University of Zanzibar (SUZA)"
+    }, 
+    {
+        "lat": -6.7824715, 
+        "long": 39.2071707, 
+        "name": "University of Dar es Salaam"
+    }, 
+    {
+        "lat": -6.8086993, 
+        "long": 39.2720406, 
+        "name": "Muhimbili University"
+    }, 
+    {
+        "lat": 36.3099845, 
+        "long": 59.5266423, 
+        "name": "دانشکده دامپزشکی"
+    }, 
+    {
+        "lat": 36.3068927, 
+        "long": 59.534204, 
+        "name": "دانشکده ادبیات و علوم انسانی"
+    }, 
+    {
+        "lat": 36.313408, 
+        "long": 59.5271402, 
+        "name": "دانشکده مهندسی"
+    }, 
+    {
+        "lat": 36.3120179, 
+        "long": 59.5316549, 
+        "name": "دانشکده علوم"
+    }, 
+    {
+        "lat": 36.3166474, 
+        "long": 59.5306231, 
+        "name": "دانشکده علوم اداری و اقتصادی"
+    }, 
+    {
+        "lat": 25.334324, 
+        "long": 60.6215419, 
+        "name": "دانشگاه بین المللی چابهار"
+    }, 
+    {
+        "lat": 0.302671, 
+        "long": 32.5542284, 
+        "name": "Ugand Martyrs University"
+    }, 
+    {
+        "lat": 38.2887805, 
+        "long": 21.7887305, 
+        "name": "Πανεπιστήμιο Πατρών"
+    }, 
+    {
+        "lat": 32.7173881, 
+        "long": 51.5323273, 
+        "name": "دانشگاه صنعتی اصفهان"
+    }, 
+    {
+        "lat": 38.7533492, 
+        "long": -9.1561421, 
+        "name": "Universidade de Lisboa"
+    }, 
+    {
+        "lat": -25.74083, 
+        "long": 28.19682, 
+        "name": "Tshwane u Tech"
+    }, 
+    {
+        "lat": 36.3560422, 
+        "long": 59.4892631, 
+        "name": "موسسه آموزش عالی خیام"
+    }, 
+    {
+        "lat": 29.6298908, 
+        "long": 52.5237148, 
+        "name": "دانشگاه علوم پزشکی شیراز"
+    }, 
+    {
+        "lat": 11.2409074, 
+        "long": 49.2038521, 
+        "name": "East African University"
+    }, 
+    {
+        "lat": 37.9408356, 
+        "long": 58.3919189, 
+        "name": "Türkmen döwlet ulag we aragatnaşyk instituty"
+    }, 
+    {
+        "lat": -1.9468891, 
+        "long": 30.1436669, 
+        "name": "Adventist University"
+    }, 
+    {
+        "lat": 38.7412908, 
+        "long": -9.28502, 
+        "name": "Universidade Atlantica"
+    }, 
+    {
+        "lat": 28.0990773, 
+        "long": -15.4198732, 
+        "name": "Rectorado de la Universidad de Las Palmas de Gran Canaria"
+    }, 
+    {
+        "lat": 12.0160591, 
+        "long": 8.5065423, 
+        "name": "Bayero University"
+    }, 
+    {
+        "lat": 11.9692949, 
+        "long": 8.4255078, 
+        "name": "Bayero University Kano (new campus)"
+    }, 
+    {
+        "lat": 38.288371, 
+        "long": 21.7887686, 
+        "name": "Electrical & Computer Engineering"
+    }, 
+    {
+        "lat": 38.2859147, 
+        "long": 21.786802, 
+        "name": "Administration Building, Building A"
+    }, 
+    {
+        "lat": 38.284653, 
+        "long": 21.7878977, 
+        "name": "Computer Engineering & Informatics, Building B"
+    }, 
+    {
+        "lat": 38.2860479, 
+        "long": 21.7899199, 
+        "name": "University Hall of Residence"
+    }, 
+    {
+        "lat": 38.2889328, 
+        "long": 21.7903298, 
+        "name": "Civil Engineering"
+    }, 
+    {
+        "lat": 38.2904553, 
+        "long": 21.7897719, 
+        "name": "Mathematics"
+    }, 
+    {
+        "lat": 38.2902869, 
+        "long": 21.7863043, 
+        "name": "Conference Center"
+    }, 
+    {
+        "lat": 33.9521496, 
+        "long": 35.6179452, 
+        "name": "جامعة سيدة اللويزة"
+    }, 
+    {
+        "lat": -29.881549, 
+        "long": 30.9882742, 
+        "name": "Medschool"
+    }, 
+    {
+        "lat": 5.6355002, 
+        "long": -0.2004197, 
+        "name": "GIMPA"
+    }, 
+    {
+        "lat": 37.950593, 
+        "long": 58.3552959, 
+        "name": "Azadi Turkmen National Institute of World Languages"
+    }, 
+    {
+        "lat": -15.8016626, 
+        "long": 35.0162746, 
+        "name": "University of Malawi Medical College"
+    }, 
+    {
+        "lat": 36.831129, 
+        "long": 10.1466462, 
+        "name": "المدرسة الوطنية للمهندسين بتونس"
+    }, 
+    {
+        "lat": 36.8338481, 
+        "long": 10.1465992, 
+        "name": "معهد العلوم في تونس"
+    }, 
+    {
+        "lat": 35.8002392, 
+        "long": 51.3980847, 
+        "name": "دانشگاه پزشکی شهید بهشتی"
+    }, 
+    {
+        "lat": 32.312689, 
+        "long": 35.3708031, 
+        "name": "Al Quds Open University"
+    }, 
+    {
+        "lat": 32.4082217, 
+        "long": 35.3429084, 
+        "name": "American Arab University Jenin"
+    }, 
+    {
+        "lat": 31.5058229, 
+        "long": 35.0899007, 
+        "name": "Palestine Polyticnic University (B)"
+    }, 
+    {
+        "lat": 31.5071419, 
+        "long": 35.0906148, 
+        "name": "Palstine Polyticnic University (C)"
+    }, 
+    {
+        "lat": 32.226087, 
+        "long": 35.2341302, 
+        "name": "Al Quds Open University"
+    }, 
+    {
+        "lat": 31.5096274, 
+        "long": 35.090393, 
+        "name": "Palestine Polytechnic Unversity"
+    }, 
+    {
+        "lat": 31.5212126, 
+        "long": 35.0874106, 
+        "name": "Palestine Polyticnic University"
+    }, 
+    {
+        "lat": 31.5437993, 
+        "long": 35.0847295, 
+        "name": "Al Quds Open University"
+    }, 
+    {
+        "lat": 31.5051699, 
+        "long": 35.0898213, 
+        "name": "Palestenian Polytechnic"
+    }, 
+    {
+        "lat": 31.5336282, 
+        "long": 35.0979762, 
+        "name": "Palestine Polytechnic University"
+    }, 
+    {
+        "lat": 31.5085017, 
+        "long": 35.0923025, 
+        "name": "Palestine Polyticnic University (A)"
+    }, 
+    {
+        "lat": 31.543588, 
+        "long": 35.0986176, 
+        "name": "جامعة القدس المفتوحة"
+    }, 
+    {
+        "lat": 31.5502621, 
+        "long": 35.093412, 
+        "name": "جامعة الخليل"
+    }, 
+    {
+        "lat": 31.9133655, 
+        "long": 35.1997672, 
+        "name": "Al Quds Open University"
+    }, 
+    {
+        "lat": 31.7672963, 
+        "long": 35.2544281, 
+        "name": "Al Quds Open University Faculty Of Student Affairs"
+    }, 
+    {
+        "lat": 32.1908172, 
+        "long": 34.9672749, 
+        "name": "Al-Quds Open University"
+    }, 
+    {
+        "lat": 32.083758, 
+        "long": 35.1887646, 
+        "name": "Al Quds Open Universty"
+    }, 
+    {
+        "lat": 32.3133763, 
+        "long": 35.0224377, 
+        "name": "Al Najah Uni."
+    }, 
+    {
+        "lat": 32.3176254, 
+        "long": 35.0313952, 
+        "name": "Al Quds Open University"
+    }, 
+    {
+        "lat": 32.4664464, 
+        "long": 35.2940644, 
+        "name": "Al Quds Almaftoha University"
+    }, 
+    {
+        "lat": -4.4043601, 
+        "long": 15.2570492, 
+        "name": "Université pédagogique nationale"
+    }, 
+    {
+        "lat": 38.0030145, 
+        "long": 23.6759711, 
+        "name": "ΤΕΙ Αθηνών"
+    }, 
+    {
+        "lat": 13.4883434, 
+        "long": 39.4550331, 
+        "name": "Adi Haki Campus, Mekelle University"
+    }, 
+    {
+        "lat": -14.2952182, 
+        "long": 28.5527353, 
+        "name": "Mulungushi University"
+    }, 
+    {
+        "lat": -15.3892494, 
+        "long": 35.3372268, 
+        "name": "University of Malawi - Chancellor College Campus"
+    }, 
+    {
+        "lat": -26.1626099, 
+        "long": 28.3202906, 
+        "name": "Ekurhuleni East College"
+    }, 
+    {
+        "lat": -1.2973428, 
+        "long": 36.8022159, 
+        "name": "Daystar University (Nairobi campus)"
+    }, 
+    {
+        "lat": -20.9051105, 
+        "long": 55.5003868, 
+        "name": "Pôle Technique Universitaire"
+    }, 
+    {
+        "lat": -20.877372, 
+        "long": 55.4478465, 
+        "name": "IAE"
+    }, 
+    {
+        "lat": 38.6609245, 
+        "long": -9.2043594, 
+        "name": "FCT-UNL"
+    }, 
+    {
+        "lat": 38.7369132, 
+        "long": -9.3027416, 
+        "name": "Instituto Superior Técnico"
+    }, 
+    {
+        "lat": 31.5436894, 
+        "long": 34.5135144, 
+        "name": "Al Quds Open University"
+    }, 
+    {
+        "lat": 31.514507, 
+        "long": 34.4414829, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 31.5046078, 
+        "long": 34.4356459, 
+        "name": "Al-Aqsa University"
+    }, 
+    {
+        "lat": 31.5149561, 
+        "long": 34.4372805, 
+        "name": "Al-Azhar University"
+    }, 
+    {
+        "lat": 31.4969414, 
+        "long": 34.4447139, 
+        "name": "Gaza  University"
+    }, 
+    {
+        "lat": 31.5148005, 
+        "long": 34.4401459, 
+        "name": "Al-Azhar University"
+    }, 
+    {
+        "lat": 31.5139, 
+        "long": 34.4398757, 
+        "name": "The Islamic University of Gaza"
+    }, 
+    {
+        "lat": 31.5096678, 
+        "long": 34.4339405, 
+        "name": "Al-Quds Open University-Gaza Office"
+    }, 
+    {
+        "lat": 31.5152237, 
+        "long": 34.4385332, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 31.3233285, 
+        "long": 34.3214856, 
+        "name": "Islamic University - The South Branch"
+    }, 
+    {
+        "lat": 31.271504, 
+        "long": 34.2647431, 
+        "name": "AL Qudes UNIVERSITY"
+    }, 
+    {
+        "lat": 35.3066521, 
+        "long": 25.1531555, 
+        "name": "Παν. Κρήτης"
+    }, 
+    {
+        "lat": 33.8962395, 
+        "long": 35.4877706, 
+        "name": "الجامعة الحديثة للأعمال التجارية والعلوم"
+    }, 
+    {
+        "lat": 7.935524, 
+        "long": 39.11796, 
+        "name": "School of Agriculture, Adama University"
+    }, 
+    {
+        "lat": 21.4964412, 
+        "long": 39.2489498, 
+        "name": "King Abdulaziz University"
+    }, 
+    {
+        "lat": 35.528314, 
+        "long": 11.0332303, 
+        "name": "Foyer Universitaire Mahdia"
+    }, 
+    {
+        "lat": 1.0748057, 
+        "long": 34.1751573, 
+        "name": "Uganda Christian University Mbale"
+    }, 
+    {
+        "lat": 31.9053873, 
+        "long": 34.8048122, 
+        "name": "הפקולטה לחקלאות של האוניברסיטה העברית"
+    }, 
+    {
+        "lat": 33.5988889, 
+        "long": 35.3955556, 
+        "name": "معهد الفرير"
+    }, 
+    {
+        "lat": 33.8500946, 
+        "long": 35.5500247, 
+        "name": "شكري غانم"
+    }, 
+    {
+        "lat": 34.0888889, 
+        "long": 35.7333333, 
+        "name": "مدرسة دوم بوسكو"
+    }, 
+    {
+        "lat": 14.6947257, 
+        "long": -17.4541487, 
+        "name": "Université A. Hampaté Ba"
+    }, 
+    {
+        "lat": 24.4201509, 
+        "long": 54.5968366, 
+        "name": "Women's Technical College"
+    }, 
+    {
+        "lat": 30.304683, 
+        "long": 31.7541485, 
+        "name": "جامعة مدينة العاشر من رمضان"
+    }, 
+    {
+        "lat": 30.0677107, 
+        "long": 31.0203361, 
+        "name": "جامعة النيل"
+    }, 
+    {
+        "lat": 14.1083112, 
+        "long": 38.7083216, 
+        "name": "Axum University"
+    }, 
+    {
+        "lat": 34.7474757, 
+        "long": 10.7620567, 
+        "name": "Institut des Beaux Arts de Sfax"
+    }, 
+    {
+        "lat": 0.3476081, 
+        "long": 32.6326375, 
+        "name": "Kyambogo University"
+    }, 
+    {
+        "lat": 11.597539, 
+        "long": 37.3965641, 
+        "name": "IOT Main Library"
+    }, 
+    {
+        "lat": 30.0683058, 
+        "long": 31.2006429, 
+        "name": "سكن جامعة القاهرة للطلاب"
+    }, 
+    {
+        "lat": 33.6758825, 
+        "long": 35.4652233, 
+        "name": "الجامعة العربية"
+    }, 
+    {
+        "lat": 33.4995741, 
+        "long": 36.2367439, 
+        "name": "المجلس العربي للإختصاصات الطبية"
+    }, 
+    {
+        "lat": 0.2946206, 
+        "long": 32.6047025, 
+        "name": "Kampala International University"
+    }, 
+    {
+        "lat": -1.2815185, 
+        "long": 36.8144937, 
+        "name": "St Paul's Catholic University"
+    }, 
+    {
+        "lat": -18.9198053, 
+        "long": 47.5234911, 
+        "name": "École de Médecine"
+    }, 
+    {
+        "lat": 37.4532684, 
+        "long": 57.3246573, 
+        "name": "دانشگاه آزاد بجنورد"
+    }, 
+    {
+        "lat": 38.2892737, 
+        "long": 21.7881533, 
+        "name": "Mechanical Engineering & Aironautics"
+    }, 
+    {
+        "lat": 38.2887571, 
+        "long": 21.7889282, 
+        "name": "Amfitheatres of Polytechnic School"
+    }, 
+    {
+        "lat": 38.2885494, 
+        "long": 21.7873111, 
+        "name": "Department of Priamary Education"
+    }, 
+    {
+        "lat": 38.2879031, 
+        "long": 21.7891725, 
+        "name": "Electrical & Computer Engineering"
+    }, 
+    {
+        "lat": 38.2881116, 
+        "long": 21.7898565, 
+        "name": "Electrical & Computer Engineering"
+    }, 
+    {
+        "lat": 38.2892609, 
+        "long": 21.7869249, 
+        "name": "Mechanical Engineering & Aironautics"
+    }, 
+    {
+        "lat": -4.4194805, 
+        "long": 15.3092428, 
+        "name": "Université de Kinshasa"
+    }, 
+    {
+        "lat": -18.9087469, 
+        "long": 47.5172084, 
+        "name": "Laulanie University"
+    }, 
+    {
+        "lat": -18.8798843, 
+        "long": 47.5604782, 
+        "name": "Faculté de Médecine Département Vétérinaire"
+    }, 
+    {
+        "lat": 36.2928107, 
+        "long": 59.6077904, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 38.5702614, 
+        "long": 23.6484273, 
+        "name": "Τεχνολογικό Εκπαιδευτικό Ίδρυμα Χαλκίδας"
+    }, 
+    {
+        "lat": 36.3062437, 
+        "long": 59.5724595, 
+        "name": "دانشگاه آزاد علوم پایه"
+    }, 
+    {
+        "lat": 36.3154725, 
+        "long": 59.5450151, 
+        "name": "موسسه آموزش عالی غیرانتفاعی تابران 1"
+    }, 
+    {
+        "lat": 36.1369774, 
+        "long": -5.4477275, 
+        "name": "Escuela de Artes y Oficios"
+    }, 
+    {
+        "lat": -25.5009364, 
+        "long": 30.9558522, 
+        "name": "Tshwane University of Technology"
+    }, 
+    {
+        "lat": -18.9221972, 
+        "long": 47.5423107, 
+        "name": "Institut Catholique de Madagascar"
+    }, 
+    {
+        "lat": -18.9166181, 
+        "long": 47.5142248, 
+        "name": "École Normale Supérieure"
+    }, 
+    {
+        "lat": -33.9594159, 
+        "long": 22.5324246, 
+        "name": "NMMU Saasveld Campus"
+    }, 
+    {
+        "lat": 36.3056325, 
+        "long": 59.5280245, 
+        "name": "دانشکده کشاورزی"
+    }, 
+    {
+        "lat": 36.3162605, 
+        "long": 59.528451, 
+        "name": "دانشکده داروسازی"
+    }, 
+    {
+        "lat": 36.3174747, 
+        "long": 59.5279075, 
+        "name": "دانشکده  ریاضی"
+    }, 
+    {
+        "lat": 36.3157214, 
+        "long": 59.5344321, 
+        "name": "دانشکده الهیات"
+    }, 
+    {
+        "lat": 36.3054156, 
+        "long": 59.5354517, 
+        "name": "دانشکده منابع طبیعی"
+    }, 
+    {
+        "lat": 28.4813548, 
+        "long": -16.3194806, 
+        "name": "Instituto Universitario de Bio-Organica"
+    }, 
+    {
+        "lat": 28.4806003, 
+        "long": -16.3199527, 
+        "name": "Facultad de Biologia"
+    }, 
+    {
+        "lat": 28.4794404, 
+        "long": -16.3207681, 
+        "name": "Instituto de Productos Naturales y Agrobiología"
+    }, 
+    {
+        "lat": 28.4794404, 
+        "long": -16.3222809, 
+        "name": "Facultad de Química"
+    }, 
+    {
+        "lat": -15.7231339, 
+        "long": 46.3072824, 
+        "name": "Université de Mahajanga"
+    }, 
+    {
+        "lat": -15.7234964, 
+        "long": 46.308271, 
+        "name": "Faculté de Médecine"
+    }, 
+    {
+        "lat": 31.7918555, 
+        "long": 35.244723, 
+        "name": "האוניברסיטה העברית בירושלים"
+    }, 
+    {
+        "lat": -18.1362611, 
+        "long": 49.3774458, 
+        "name": "Université de Toamasina Campus de Barikadimy"
+    }, 
+    {
+        "lat": -18.1553371, 
+        "long": 49.404256, 
+        "name": "Université Privée de Madagascar"
+    }, 
+    {
+        "lat": 31.9085779, 
+        "long": 34.8141247, 
+        "name": "מכון ויצמן למדע"
+    }, 
+    {
+        "lat": -18.918484, 
+        "long": 47.5677074, 
+        "name": "ISPM"
+    }, 
+    {
+        "lat": -20.1770239, 
+        "long": 57.467259, 
+        "name": "University of Technology, Mauritius (UTM)"
+    }, 
+    {
+        "lat": -0.273779, 
+        "long": 37.0104708, 
+        "name": "Kings Medical College"
+    }, 
+    {
+        "lat": -33.9351991, 
+        "long": 18.8739394, 
+        "name": "Stellenbosch Institute for Advanced Study"
+    }, 
+    {
+        "lat": 9.0338394, 
+        "long": 38.7635447, 
+        "name": "AAU Faculty of Natural Scince"
+    }, 
+    {
+        "lat": 9.0397084, 
+        "long": 38.7624379, 
+        "name": "AAU Faculty of Technology"
+    }, 
+    {
+        "lat": 11.2099506, 
+        "long": -4.4183586, 
+        "name": "Université Polytechnique de Bobo Dioulasso"
+    }, 
+    {
+        "lat": -8.8140386, 
+        "long": 13.2377151, 
+        "name": "Universidade Catolica"
+    }, 
+    {
+        "lat": 35.7344162, 
+        "long": -5.8918, 
+        "name": "University ABDELMALEK ESSAADI"
+    }, 
+    {
+        "lat": 35.1549948, 
+        "long": 33.3743405, 
+        "name": "Open University of Cyprus"
+    }, 
+    {
+        "lat": -4.631455, 
+        "long": 55.4597943, 
+        "name": "University of Seychelles"
+    }, 
+    {
+        "lat": 36.2530555, 
+        "long": 58.8321101, 
+        "name": "Islamic Azad University Neyshabur"
+    }, 
+    {
+        "lat": 5.3576705, 
+        "long": -3.9663067, 
+        "name": "Université canadienne des arts, des sciences et du management"
+    }, 
+    {
+        "lat": 27.7714925, 
+        "long": 53.9701485, 
+        "name": "Evaz University"
+    }, 
+    {
+        "lat": 31.1602769, 
+        "long": 52.6276646, 
+        "name": "Azad Univesity of Abadeh"
+    }, 
+    {
+        "lat": 37.4057478, 
+        "long": -5.9923571, 
+        "name": "Escuela de Fisoterapia y Podologia"
+    }, 
+    {
+        "lat": 24.4469025, 
+        "long": 54.3942563, 
+        "name": "Khalifa University"
+    }, 
+    {
+        "lat": 37.3727119, 
+        "long": -5.9824944, 
+        "name": "Secretariado de recursos audiovisuales y nuevas tecnologías"
+    }, 
+    {
+        "lat": 30.0130662, 
+        "long": 30.9897487, 
+        "name": "جامعة النيل"
+    }, 
+    {
+        "lat": 29.9586488, 
+        "long": 31.0515142, 
+        "name": "معهد الأهرام العالي"
+    }, 
+    {
+        "lat": 30.0321964, 
+        "long": 31.0187614, 
+        "name": "جامعة القاهرة فرع الشيخ زايد"
+    }, 
+    {
+        "lat": 36.744956, 
+        "long": -3.525593, 
+        "name": "U.N.E.D. Motril"
+    }, 
+    {
+        "lat": 37.6065505, 
+        "long": -0.9808144, 
+        "name": "Escuela Técnica Superior de Ingeniería Agronómica "
+    }, 
+    {
+        "lat": 37.6066686, 
+        "long": -0.9783902, 
+        "name": "Escuela Técnica Superior de Ingeniería de Caminos, Canales y Puertos y de Ingeniería de Minas"
+    }, 
+    {
+        "lat": 37.6066665, 
+        "long": -0.9781944, 
+        "name": "Escuela Técnica Superior de Ingeniería Naval y Oceánica "
+    }, 
+    {
+        "lat": -24.6603597, 
+        "long": 25.9356624, 
+        "name": "University of Botswana"
+    }, 
+    {
+        "lat": -25.7205605, 
+        "long": 28.3995264, 
+        "name": "Pretoria University Mamelodi Campus"
+    }, 
+    {
+        "lat": -6.7664111, 
+        "long": 39.2137451, 
+        "name": "Ardhi University"
+    }, 
+    {
+        "lat": -0.3714811, 
+        "long": 35.9362907, 
+        "name": "Egerton University"
+    }, 
+    {
+        "lat": -3.621059, 
+        "long": 39.8459415, 
+        "name": "Mpwani Agricultural University"
+    }, 
+    {
+        "lat": 6.3343603, 
+        "long": 5.600647, 
+        "name": "University of Benin"
+    }, 
+    {
+        "lat": 31.0943305, 
+        "long": 35.7172433, 
+        "name": "جامعة مؤتة"
+    }, 
+    {
+        "lat": 0.0965688, 
+        "long": 32.5071376, 
+        "name": "Nkumba University"
+    }, 
+    {
+        "lat": -1.305601, 
+        "long": 36.802104, 
+        "name": "Great Lakes University of Kisumu Nairobi Campus"
+    }, 
+    {
+        "lat": 34.878139, 
+        "long": -1.3283902, 
+        "name": "Institut Paramedical"
+    }, 
+    {
+        "lat": 34.8771428, 
+        "long": -1.3265081, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 35.5225638, 
+        "long": 11.0301801, 
+        "name": "المعهد العالي للدراسات التكنولوجية"
+    }, 
+    {
+        "lat": 35.50253, 
+        "long": 11.0656067, 
+        "name": "المعهد العالي للفنون و الحرف"
+    }, 
+    {
+        "lat": 34.8802875, 
+        "long": -1.3587614, 
+        "name": "Pole Imama"
+    }, 
+    {
+        "lat": 5.9889358, 
+        "long": 10.4359561, 
+        "name": "Higher Institute of Professional Training"
+    }, 
+    {
+        "lat": 35.7639094, 
+        "long": 10.8051721, 
+        "name": "كلية العلوم بالمنستير"
+    }, 
+    {
+        "lat": -25.7496375, 
+        "long": 28.2802914, 
+        "name": "Council for Scientific and Industrial Research"
+    }, 
+    {
+        "lat": -1.2818769, 
+        "long": 36.8156884, 
+        "name": "Kenya Methodist University"
+    }, 
+    {
+        "lat": 9.6172462, 
+        "long": 41.8378713, 
+        "name": "Dire Dawa University"
+    }, 
+    {
+        "lat": 37.3082001, 
+        "long": 49.5787283, 
+        "name": "بنت الهدی صدر رشت"
+    }, 
+    {
+        "lat": 36.5368928, 
+        "long": -6.3018068, 
+        "name": "International Office \"Erasmus\""
+    }, 
+    {
+        "lat": 10.5067522, 
+        "long": 7.4327488, 
+        "name": "Kaduna State University Annex"
+    }, 
+    {
+        "lat": 10.5067522, 
+        "long": 7.4327488, 
+        "name": "Kaduna State University Annex"
+    }, 
+    {
+        "lat": 36.5286087, 
+        "long": 32.084172, 
+        "name": "Alanya İşletme Fakültesi"
+    }, 
+    {
+        "lat": 33.5498626, 
+        "long": 36.3059737, 
+        "name": "المعهد العالي لإدارة الأعمال"
+    }, 
+    {
+        "lat": 0.087717, 
+        "long": 29.299717, 
+        "name": "Universite Divina Gloria"
+    }, 
+    {
+        "lat": 0.152383, 
+        "long": 29.340017, 
+        "name": "Institut superieure ISEAB"
+    }, 
+    {
+        "lat": 0.096517, 
+        "long": 29.317483, 
+        "name": "Universite Ulpgl / Bbo"
+    }, 
+    {
+        "lat": 0.12525, 
+        "long": 29.299083, 
+        "name": "Universite Vor"
+    }, 
+    {
+        "lat": -0.060624, 
+        "long": 29.301366, 
+        "name": "Universite Unadel"
+    }, 
+    {
+        "lat": -14.9242013, 
+        "long": 13.4654665, 
+        "name": "ISTEL Lubango"
+    }, 
+    {
+        "lat": 4.0548516, 
+        "long": 9.7343537, 
+        "name": "UNIVERSITY OF DOUALA"
+    }, 
+    {
+        "lat": 32.3333628, 
+        "long": 15.0476998, 
+        "name": "LARAF advanced flight school"
+    }, 
+    {
+        "lat": 32.3145836, 
+        "long": 15.059307, 
+        "name": "LARAF academy"
+    }, 
+    {
+        "lat": 32.3111502, 
+        "long": 15.0634905, 
+        "name": "LARAF basic flight school"
+    }, 
+    {
+        "lat": 15.3348051, 
+        "long": 44.1829352, 
+        "name": "مركز اللغة الأمريكي اليمني"
+    }, 
+    {
+        "lat": -2.5674528, 
+        "long": 26.6279194, 
+        "name": "Universite Isp / Kalima"
+    }, 
+    {
+        "lat": -2.5575722, 
+        "long": 26.6163083, 
+        "name": "Universite Univ Moyen Lualaba"
+    }, 
+    {
+        "lat": -2.5665556, 
+        "long": 26.6175778, 
+        "name": "Universite ISTM Kalima"
+    }, 
+    {
+        "lat": -2.8394722, 
+        "long": 28.6722389, 
+        "name": "Universite Cidep / UO"
+    }, 
+    {
+        "lat": -3.0620028, 
+        "long": 28.1769528, 
+        "name": "Université"
+    }, 
+    {
+        "lat": 11.8010242, 
+        "long": 40.993941, 
+        "name": "Semera University"
+    }, 
+    {
+        "lat": 21.407222, 
+        "long": 39.8675, 
+        "name": "جامعة أم القرى"
+    }, 
+    {
+        "lat": 21.333889, 
+        "long": 39.938889, 
+        "name": "جامعة أم القرى"
+    }, 
+    {
+        "lat": 24.965556, 
+        "long": 46.311389, 
+        "name": "كلية الملك فيصل العسكرية"
+    }, 
+    {
+        "lat": 24.814722, 
+        "long": 46.709167, 
+        "name": "جامعة الإمام محمد إبن سعود"
+    }, 
+    {
+        "lat": 24.65, 
+        "long": 46.716667, 
+        "name": "كلية الملك عبد العزيز الحربية"
+    }, 
+    {
+        "lat": 24.7171994, 
+        "long": 46.6197236, 
+        "name": "جامعة الملك خالد"
+    }, 
+    {
+        "lat": 26.397778, 
+        "long": 50.183056, 
+        "name": "University of Dammam"
+    }, 
+    {
+        "lat": 26.306111, 
+        "long": 50.151944, 
+        "name": "جامعة الملك فهد للبترول و المعادن"
+    }, 
+    {
+        "lat": -2.0530194, 
+        "long": 29.0990111, 
+        "name": "Universite Unilai"
+    }, 
+    {
+        "lat": -2.0894278, 
+        "long": 28.5840611, 
+        "name": "Institut superieure Inst Sup Isage"
+    }, 
+    {
+        "lat": 36.8577634, 
+        "long": 10.1949941, 
+        "name": "Cité Universitaire le Foyer 2 Mars Ariana"
+    }, 
+    {
+        "lat": 9.4213361, 
+        "long": 42.0357611, 
+        "name": "Law School"
+    }, 
+    {
+        "lat": 9.4220505, 
+        "long": 42.0373973, 
+        "name": "College of Computing and Informatics"
+    }, 
+    {
+        "lat": -1.2949176, 
+        "long": 36.8045738, 
+        "name": "UNIVERSITY OF NAIROBI DENTAL HOSPITAL AND DENTAL SCHOOL,COLLEGE OF HEALTH SCIENCES"
+    }, 
+    {
+        "lat": -33.9652642, 
+        "long": 25.6169917, 
+        "name": "NMMU Bird Street Campus"
+    }, 
+    {
+        "lat": -33.9884301, 
+        "long": 25.6582175, 
+        "name": "NMMU 2nd Avenue Campus"
+    }, 
+    {
+        "lat": 36.8454996, 
+        "long": 10.186735, 
+        "name": "كلية العلوم القانونية والسياسية والاجتماعية بتونس"
+    }, 
+    {
+        "lat": -4.0626903, 
+        "long": 39.6765079, 
+        "name": "Kenyatta University"
+    }, 
+    {
+        "lat": -4.0368727, 
+        "long": 39.6683826, 
+        "name": "The Mombasa Polytechnic University College"
+    }, 
+    {
+        "lat": 9.5467868, 
+        "long": 1.1835997, 
+        "name": "u k presidence"
+    }, 
+    {
+        "lat": 7.2026863, 
+        "long": 35.4066266, 
+        "name": "Tepi University"
+    }, 
+    {
+        "lat": -21.4529059, 
+        "long": 47.0843611, 
+        "name": "Institut des Sciences et Techniques de l'Environnement"
+    }, 
+    {
+        "lat": -21.4505835, 
+        "long": 47.0889143, 
+        "name": "Université Privée de Madagascar"
+    }, 
+    {
+        "lat": -21.4524341, 
+        "long": 47.0836282, 
+        "name": "Institut de Formation Technique"
+    }, 
+    {
+        "lat": -4.0467282, 
+        "long": 39.6680573, 
+        "name": "Kenya Methodist University"
+    }, 
+    {
+        "lat": -15.7274993, 
+        "long": 46.3044592, 
+        "name": "École Nationale d'Enseignement Maritime"
+    }, 
+    {
+        "lat": 37.3955775, 
+        "long": -6.0001847, 
+        "name": "Conservatorio Superior de Música"
+    }, 
+    {
+        "lat": 37.3964918, 
+        "long": -6.0000429, 
+        "name": "Escuela Superior de Arte Dramático"
+    }, 
+    {
+        "lat": -25.9556596, 
+        "long": 32.5995817, 
+        "name": "ISUTC"
+    }, 
+    {
+        "lat": -3.3750799, 
+        "long": 29.3968764, 
+        "name": "Université Lumière"
+    }, 
+    {
+        "lat": -23.3577697, 
+        "long": 43.6684011, 
+        "name": "Université de Toliara - Présidence"
+    }, 
+    {
+        "lat": -23.3519535, 
+        "long": 43.66647, 
+        "name": "Université de Toliara - CCUEP ACCESS"
+    }, 
+    {
+        "lat": 23.5919007, 
+        "long": 58.1715276, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 37.4028619, 
+        "long": -6.007117, 
+        "name": "CEADE"
+    }, 
+    {
+        "lat": 37.3956321, 
+        "long": -6.0121557, 
+        "name": "ESIC, Escuela de Gestión comercial y marketing"
+    }, 
+    {
+        "lat": 37.4045906, 
+        "long": -6.0064787, 
+        "name": "EOI"
+    }, 
+    {
+        "lat": -22.5477304, 
+        "long": 17.0550167, 
+        "name": "University of Namibia (Education)"
+    }, 
+    {
+        "lat": -17.7734729, 
+        "long": 15.7695369, 
+        "name": "International University of Management"
+    }, 
+    {
+        "lat": -17.7643935, 
+        "long": 15.7671986, 
+        "name": "University of Namibia (IT & Engineering)"
+    }, 
+    {
+        "lat": 25.3239847, 
+        "long": 51.4361667, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 37.0291857, 
+        "long": -7.9224648, 
+        "name": "Escola Superior de Educação e Comunicação"
+    }, 
+    {
+        "lat": 35.3323786, 
+        "long": 25.282352, 
+        "name": "Creta Aquarium"
+    }, 
+    {
+        "lat": 37.0703745, 
+        "long": 22.4401373, 
+        "name": "Πανεπιστήμιο Πελοποννήσου"
+    }, 
+    {
+        "lat": 35.8140626, 
+        "long": 10.6259393, 
+        "name": "Institut Supérieur de Gestion (ISG)"
+    }, 
+    {
+        "lat": -4.740782, 
+        "long": 55.5158762, 
+        "name": "University of Seychelles"
+    }, 
+    {
+        "lat": -1.2778689, 
+        "long": 36.8121581, 
+        "name": "GRADUATION SQUARE"
+    }, 
+    {
+        "lat": 29.866891, 
+        "long": 31.320125, 
+        "name": "Helwan University"
+    }, 
+    {
+        "lat": -22.5012021, 
+        "long": 17.3685482, 
+        "name": "University of Namibia, Neudamm Campus"
+    }, 
+    {
+        "lat": 37.0280974, 
+        "long": -7.9225067, 
+        "name": "Instituto Superior de Engenharia"
+    }, 
+    {
+        "lat": 0.5449964, 
+        "long": 34.0227717, 
+        "name": "Busitema University"
+    }, 
+    {
+        "lat": 32.3341563, 
+        "long": 36.2415048, 
+        "name": "جامعة آل البيت"
+    }, 
+    {
+        "lat": 37.0450975, 
+        "long": -7.9719959, 
+        "name": "Departamento de Engenharia Electrónica e Informática"
+    }, 
+    {
+        "lat": 37.0448616, 
+        "long": -7.9716413, 
+        "name": "Departamento de Física"
+    }, 
+    {
+        "lat": 37.0452041, 
+        "long": -7.972564, 
+        "name": "Faculdade de Ciências Humanas e Sociais"
+    }, 
+    {
+        "lat": 37.0447148, 
+        "long": -7.9710537, 
+        "name": "Departamento de Matemática"
+    }, 
+    {
+        "lat": 37.0429336, 
+        "long": -7.972663, 
+        "name": "Departamento de Medicina e Ciências Biomédicas"
+    }, 
+    {
+        "lat": -4.3184711, 
+        "long": 39.5737189, 
+        "name": "University of Nairobi"
+    }, 
+    {
+        "lat": 31.6451781, 
+        "long": 55.4299432, 
+        "name": "دانشگاه آزاد اسلامی واحد بافق"
+    }, 
+    {
+        "lat": 24.717137, 
+        "long": 46.619414, 
+        "name": "King Saud University"
+    }, 
+    {
+        "lat": 7.0566162, 
+        "long": 38.4996884, 
+        "name": "Hawassa University"
+    }, 
+    {
+        "lat": -2.5417706, 
+        "long": 28.8591478, 
+        "name": "Universite Evangelique en Afrique"
+    }, 
+    {
+        "lat": -2.5431832, 
+        "long": 28.866034, 
+        "name": "Universite Evangelique en Afrique - Faculte de Medecine"
+    }, 
+    {
+        "lat": 1.098557, 
+        "long": 34.1740707, 
+        "name": "Islamic University of Uganda"
+    }, 
+    {
+        "lat": 36.78106, 
+        "long": 28.2444797, 
+        "name": "Institute of Theoretical and Applied Physics (ITAP)"
+    }, 
+    {
+        "lat": 6.3814899, 
+        "long": 2.4628362, 
+        "name": "Université des Sciences et Technologies du Bénin"
+    }, 
+    {
+        "lat": 35.2923831, 
+        "long": 60.565928, 
+        "name": "دانشگاه آزاد تربت جام"
+    }, 
+    {
+        "lat": -1.6915342, 
+        "long": 29.2527012, 
+        "name": "ULK"
+    }, 
+    {
+        "lat": 32.0162147, 
+        "long": 35.8706484, 
+        "name": "الجامعة الأردنية"
+    }, 
+    {
+        "lat": 28.4826322, 
+        "long": -16.3213794, 
+        "name": "Escuela Tecnica Superior de Ingenieria Civil e Industrial"
+    }, 
+    {
+        "lat": 28.4789187, 
+        "long": -16.3219715, 
+        "name": "Facultad de Farmacia"
+    }, 
+    {
+        "lat": 28.478073, 
+        "long": -16.3212275, 
+        "name": "Servicio General de Apoyo a la Investigación"
+    }, 
+    {
+        "lat": 9.3088306, 
+        "long": 42.1234241, 
+        "name": "Haramaya University"
+    }, 
+    {
+        "lat": -0.6852621, 
+        "long": 36.4018767, 
+        "name": "K.A.R.I."
+    }, 
+    {
+        "lat": 17.00259, 
+        "long": 54.0407243, 
+        "name": "مدرسة فاطمة الزهراء للبنات"
+    }, 
+    {
+        "lat": 17.0215192, 
+        "long": 54.1097606, 
+        "name": "عائشة بنت علي ربي للبنات"
+    }, 
+    {
+        "lat": 17.02, 
+        "long": 54.09, 
+        "name": "مدرسة خالد بن الوليد"
+    }, 
+    {
+        "lat": 17.01, 
+        "long": 54.05, 
+        "name": "مركز السلطان قابوس للدراسات الإسلامية"
+    }, 
+    {
+        "lat": 17.0079985, 
+        "long": 54.0601847, 
+        "name": "مدرسة خولة بنت حكيم الثانوية للبنات"
+    }, 
+    {
+        "lat": 17.0102477, 
+        "long": 54.0300736, 
+        "name": "مدرسة سللة"
+    }, 
+    {
+        "lat": 17.02, 
+        "long": 54.06, 
+        "name": "مدرسة سميح بن سعيد للبنين"
+    }, 
+    {
+        "lat": 17.0207076, 
+        "long": 54.0696953, 
+        "name": "الأنور الخاصة"
+    }, 
+    {
+        "lat": 17.0098439, 
+        "long": 54.0815997, 
+        "name": "السيدية الإبتدائية للبنين"
+    }, 
+    {
+        "lat": 17.0095629, 
+        "long": 54.0805768, 
+        "name": "مدرسة أنس بن مالك التحضيرية للبنين"
+    }, 
+    {
+        "lat": 17.0197711, 
+        "long": 54.0788247, 
+        "name": "مدرسة ريدان"
+    }, 
+    {
+        "lat": 17.0102706, 
+        "long": 54.0787485, 
+        "name": "مدرسة صلالة الجديدة"
+    }, 
+    {
+        "lat": 17.0203954, 
+        "long": 54.0806529, 
+        "name": "مدرسة غرب صلالة للبنات"
+    }, 
+    {
+        "lat": 17.0004833, 
+        "long": 54.1007032, 
+        "name": "مدرسة سيدية الثانوية للبنين"
+    }, 
+    {
+        "lat": 17.0006402, 
+        "long": 54.1095883, 
+        "name": "مدرسة الهفة الإبتدائية للبنين"
+    }, 
+    {
+        "lat": 17.0005078, 
+        "long": 54.1104694, 
+        "name": "مدرسة الهفة الإبتدائية للبنات"
+    }, 
+    {
+        "lat": 17.0203746, 
+        "long": 54.08815, 
+        "name": "النهضة"
+    }, 
+    {
+        "lat": 17.0097645, 
+        "long": 54.1095614, 
+        "name": "مدرسة القوف الإبتدائية للبنات"
+    }, 
+    {
+        "lat": 17.0087512, 
+        "long": 54.0918065, 
+        "name": "مدرسة النوري الإبتدائية للبنات"
+    }, 
+    {
+        "lat": 17.0205619, 
+        "long": 54.1297171, 
+        "name": "مدرسة القرد الإبتدائية للبنات"
+    }, 
+    {
+        "lat": 17.06, 
+        "long": 54.15, 
+        "name": "مدرسة السعادة للبنات"
+    }, 
+    {
+        "lat": 17.02, 
+        "long": 54.12, 
+        "name": "مدرسة محمد بن القاسم"
+    }, 
+    {
+        "lat": 17.0298843, 
+        "long": 54.1598922, 
+        "name": "مدرسة باكستان"
+    }, 
+    {
+        "lat": 17.04, 
+        "long": 54.16, 
+        "name": "مدرسة صلالة الخاصة"
+    }, 
+    {
+        "lat": 17.0200827, 
+        "long": 54.1676468, 
+        "name": "مدرسة الثالث و العشرون مو يوليو للبنين"
+    }, 
+    {
+        "lat": 17.0212901, 
+        "long": 54.1673442, 
+        "name": "مدرسة الثالث و العشرون من يوليو للبنات"
+    }, 
+    {
+        "lat": 36.358447, 
+        "long": 59.4842142, 
+        "name": "موسسه آموزش عالی خاوران"
+    }, 
+    {
+        "lat": 23.579617, 
+        "long": 58.4313409, 
+        "name": "الكلية التقنية العليا"
+    }, 
+    {
+        "lat": 23.58, 
+        "long": 58.3, 
+        "name": "كلية هندسة الاطفاء والسلامة"
+    }, 
+    {
+        "lat": -3.9548775, 
+        "long": 29.7101328, 
+        "name": "Petit Séminaire de Buta"
+    }, 
+    {
+        "lat": 34.007744, 
+        "long": -6.8381851, 
+        "name": "Université Mohamed 5 Rabat"
+    }, 
+    {
+        "lat": -15.391699, 
+        "long": 28.3260836, 
+        "name": "UNZA Resident Engineers Dept."
+    }, 
+    {
+        "lat": 31.2430768, 
+        "long": 34.7850323, 
+        "name": "האוניברסיטה הפתוחה"
+    }, 
+    {
+        "lat": 37.7237689, 
+        "long": -1.0909283, 
+        "name": "Centro de Desarrollo e Innovación Tecnológica"
+    }, 
+    {
+        "lat": 32.6592092, 
+        "long": -16.9244981, 
+        "name": "Universidade da Madeira"
+    }, 
+    {
+        "lat": 32.0585314, 
+        "long": 20.0566789, 
+        "name": "University of Gar Younes (University of  Benghazi)"
+    }, 
+    {
+        "lat": 37.5271367, 
+        "long": 22.3718797, 
+        "name": "Πανεπιστήμιο Πελοποννήσου"
+    }, 
+    {
+        "lat": 37.530872, 
+        "long": 22.3710965, 
+        "name": "Πανεπιστήμιο Πελοποννήσου"
+    }, 
+    {
+        "lat": 32.1030069, 
+        "long": 36.1867057, 
+        "name": "الجامعة الهاشمية"
+    }, 
+    {
+        "lat": -15.6983791, 
+        "long": 46.326734, 
+        "name": "Université Privée de Madagascar"
+    }, 
+    {
+        "lat": -18.9041622, 
+        "long": 47.5263926, 
+        "name": "Institut de Formation Technique"
+    }, 
+    {
+        "lat": -18.9082319, 
+        "long": 47.528037, 
+        "name": "UPRIM"
+    }, 
+    {
+        "lat": -2.5914904, 
+        "long": 29.7440358, 
+        "name": "nur CGIS"
+    }, 
+    {
+        "lat": 14.4833119, 
+        "long": 49.0254017, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 14.550311, 
+        "long": 49.115185, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 14.550716, 
+        "long": 49.1159039, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 14.5510266, 
+        "long": 49.11532, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 13.5217061, 
+        "long": 2.1050292, 
+        "name": "EAMAC"
+    }, 
+    {
+        "lat": 36.4379676, 
+        "long": 10.6785296, 
+        "name": "IPEIN"
+    }, 
+    {
+        "lat": 37.0165515, 
+        "long": -6.5686834, 
+        "name": "C.I.E.C.E.M."
+    }, 
+    {
+        "lat": 33.8475918, 
+        "long": 10.09447, 
+        "name": "ISIMG  المعهد العالي للاعلامية والملتيمديا بقابس"
+    }, 
+    {
+        "lat": -0.6028258, 
+        "long": 30.6952108, 
+        "name": "Bp Stuart University"
+    }, 
+    {
+        "lat": 0.0035355, 
+        "long": 32.013854, 
+        "name": "Uganda Martyrs University"
+    }, 
+    {
+        "lat": 0.5134082, 
+        "long": 25.1764329, 
+        "name": "Univertisité de Kisangani"
+    }, 
+    {
+        "lat": 37.0257991, 
+        "long": -7.922791, 
+        "name": "Instituto Superior da Engenharia"
+    }, 
+    {
+        "lat": 5.3456116, 
+        "long": -3.9868142, 
+        "name": "Université Félix Houphouët-Boigny"
+    }, 
+    {
+        "lat": 16.8893835, 
+        "long": -24.989104, 
+        "name": "Universidade do Mindelo"
+    }, 
+    {
+        "lat": 3.8609372, 
+        "long": 11.509741, 
+        "name": "Ecole Normale Supérieure"
+    }, 
+    {
+        "lat": 4.3725901, 
+        "long": 18.5639055, 
+        "name": "Faculté de la Théologie Biblique"
+    }, 
+    {
+        "lat": 33.916272, 
+        "long": 8.0885347, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 32.19861, 
+        "long": 51.5089, 
+        "name": "دانشگاه آزاد واحد شهر مجلسي"
+    }, 
+    {
+        "lat": 33.9980155, 
+        "long": -6.8531191, 
+        "name": "Ecole Mohammadia d'Ingénieurs"
+    }, 
+    {
+        "lat": 5.3384474, 
+        "long": -0.6267564, 
+        "name": "University of Education"
+    }, 
+    {
+        "lat": 5.1287219, 
+        "long": -1.2286853, 
+        "name": "Ghana National College"
+    }, 
+    {
+        "lat": 11.8566769, 
+        "long": -15.611081, 
+        "name": "Faculdade de Direito"
+    }, 
+    {
+        "lat": 11.8566981, 
+        "long": -15.6101479, 
+        "name": "INEP - Instituto Nacional de Estudos e Pesquisa"
+    }, 
+    {
+        "lat": 11.8560889, 
+        "long": -15.6106951, 
+        "name": "Universidade Lusofona"
+    }, 
+    {
+        "lat": 14.6959295, 
+        "long": -17.4598899, 
+        "name": "ISM"
+    }, 
+    {
+        "lat": 14.7046438, 
+        "long": -17.4796735, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 28.471372, 
+        "long": -16.3057204, 
+        "name": "Escuela Universitaria de Estudios Empresariales"
+    }, 
+    {
+        "lat": 28.4713208, 
+        "long": -16.3064194, 
+        "name": "Facultad de Ciencias Económicas y Empresariales"
+    }, 
+    {
+        "lat": 28.4682444, 
+        "long": -16.3032803, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 6.3158809, 
+        "long": 5.6180805, 
+        "name": "National VET. Institute"
+    }, 
+    {
+        "lat": 28.4481674, 
+        "long": -16.2835768, 
+        "name": "Escuela de Enfermería"
+    }, 
+    {
+        "lat": 28.4817514, 
+        "long": -16.320674, 
+        "name": "Facultad de Física"
+    }, 
+    {
+        "lat": 28.4820317, 
+        "long": -16.3210179, 
+        "name": "Facultad de Matemáticas"
+    }, 
+    {
+        "lat": 28.4791251, 
+        "long": -16.3189618, 
+        "name": "E.T.S. de Ingeniería Agraria"
+    }, 
+    {
+        "lat": 35.8014926, 
+        "long": 10.6143217, 
+        "name": "ISET"
+    }, 
+    {
+        "lat": 35.806187, 
+        "long": 10.6123368, 
+        "name": "Faculté de Droit"
+    }, 
+    {
+        "lat": 35.8351911, 
+        "long": 10.6125997, 
+        "name": "Université Libre"
+    }, 
+    {
+        "lat": 35.837583, 
+        "long": 10.6070797, 
+        "name": "Université du centre"
+    }, 
+    {
+        "lat": -3.3805145, 
+        "long": 29.3700406, 
+        "name": "INSTITUT INTERNATIONAL LIBRE D'AFRIQUE"
+    }, 
+    {
+        "lat": 1.4729485, 
+        "long": 33.8635662, 
+        "name": "Kumi University"
+    }, 
+    {
+        "lat": 5.5670731, 
+        "long": -0.2611379, 
+        "name": "Methodist University College"
+    }, 
+    {
+        "lat": 5.5393973, 
+        "long": -0.2295662, 
+        "name": "University of Ghana Medical School"
+    }, 
+    {
+        "lat": 37.8965044, 
+        "long": -4.7853298, 
+        "name": "Centro de Magisterio \"Sagrado Corazon\""
+    }, 
+    {
+        "lat": 5.7762988, 
+        "long": -0.1390659, 
+        "name": "Christian Service University College"
+    }, 
+    {
+        "lat": 5.7966137, 
+        "long": -0.1226228, 
+        "name": "Valley View University"
+    }, 
+    {
+        "lat": 14.7890317, 
+        "long": -16.9269084, 
+        "name": "Structure Universitaire de Thies"
+    }, 
+    {
+        "lat": 6.1541443, 
+        "long": -0.5622947, 
+        "name": "Kibi Teacher Training College"
+    }, 
+    {
+        "lat": 6.3140812, 
+        "long": 5.6259184, 
+        "name": "University Of Benin Teaching Hospital"
+    }, 
+    {
+        "lat": 12.1283023, 
+        "long": 15.0899974, 
+        "name": "HEC TCHAD"
+    }, 
+    {
+        "lat": 12.129214, 
+        "long": 15.0888445, 
+        "name": "HEC TCHAD"
+    }, 
+    {
+        "lat": 12.1379293, 
+        "long": 15.0541924, 
+        "name": "Institut ISCAM"
+    }, 
+    {
+        "lat": 9.1929053, 
+        "long": -10.0574515, 
+        "name": "Institut biblique de Télékoro"
+    }, 
+    {
+        "lat": -0.3646342, 
+        "long": 35.9306325, 
+        "name": "Egerton university"
+    }, 
+    {
+        "lat": -3.3665566, 
+        "long": 29.3897312, 
+        "name": "Chaire Unesco"
+    }, 
+    {
+        "lat": -23.3526733, 
+        "long": 43.6680553, 
+        "name": "Institut de Formation Technique"
+    }, 
+    {
+        "lat": -28.8582411, 
+        "long": 31.8409309, 
+        "name": "University of Zululand"
+    }, 
+    {
+        "lat": 35.247757, 
+        "long": 33.0249023, 
+        "name": "Middle East Technical University Northern Cyprus Campus"
+    }, 
+    {
+        "lat": 5.139147, 
+        "long": 10.529546, 
+        "name": "UdM"
+    }, 
+    {
+        "lat": -29.8670281, 
+        "long": 30.9810756, 
+        "name": "University of KwaZulu-Natal"
+    }, 
+    {
+        "lat": 38.5788732, 
+        "long": -7.9055531, 
+        "name": "Universidade de Évora"
+    }, 
+    {
+        "lat": -32.9879143, 
+        "long": 27.8876253, 
+        "name": "Walter Sisulu University (Buffalo City Campus: Chiselhurst)"
+    }, 
+    {
+        "lat": 36.7675244, 
+        "long": 10.2766903, 
+        "name": "IPST - Ben Arous"
+    }, 
+    {
+        "lat": 36.2987706, 
+        "long": 57.6816577, 
+        "name": "دانشکده ی ادبیات و علوم انسانی"
+    }, 
+    {
+        "lat": -33.0213717, 
+        "long": 27.9076617, 
+        "name": "University of Fort Hare, East London Campus"
+    }, 
+    {
+        "lat": 37.9808895, 
+        "long": 23.7359529, 
+        "name": "Σχολή Νομικών Οικονομικών και Πολιτικών Επιστημών"
+    }, 
+    {
+        "lat": 37.6066512, 
+        "long": -0.979175, 
+        "name": "Escuela Técnica Superior de Arquitectura y Edificación "
+    }, 
+    {
+        "lat": 37.6061107, 
+        "long": -0.9809029, 
+        "name": "Aulario General II "
+    }, 
+    {
+        "lat": 37.6063003, 
+        "long": -0.9800528, 
+        "name": "CRAI, Sala 2"
+    }, 
+    {
+        "lat": 5.3552444, 
+        "long": 10.4260175, 
+        "name": "IUT Victor FOTSO"
+    }, 
+    {
+        "lat": 31.9339795, 
+        "long": 34.7903376, 
+        "name": "האונברסיטה הפתוחה"
+    }, 
+    {
+        "lat": 6.3555293, 
+        "long": 2.4080904, 
+        "name": "Faculte des Sciences de la Sante"
+    }, 
+    {
+        "lat": 6.4139788, 
+        "long": 2.3435683, 
+        "name": "Université d'Abomey-Calavi"
+    }, 
+    {
+        "lat": 36.835797, 
+        "long": 10.13955, 
+        "name": "مدرسة الامام مالك للعلوم الشرعية"
+    }, 
+    {
+        "lat": -8.8155584, 
+        "long": 13.2295248, 
+        "name": "Universidade Agostinho Neto"
+    }, 
+    {
+        "lat": 36.7149567, 
+        "long": -4.4780993, 
+        "name": "Escuela Técnica Superior de Ingeniería Informática"
+    }, 
+    {
+        "lat": 36.7153841, 
+        "long": -4.4780433, 
+        "name": "Escuela Técnica Superior de Ingeniería de Telecomunicaciones"
+    }, 
+    {
+        "lat": 12.3605433, 
+        "long": -1.4980811, 
+        "name": "Aube nouvelle"
+    }, 
+    {
+        "lat": -15.7168348, 
+        "long": 46.3058291, 
+        "name": "Institut de formation inter régional des paramédicaux Mahajanga"
+    }, 
+    {
+        "lat": -0.3689239, 
+        "long": 35.2795093, 
+        "name": "NSPSI"
+    }, 
+    {
+        "lat": 12.3418559, 
+        "long": -1.5105146, 
+        "name": "Yam Pukri"
+    }, 
+    {
+        "lat": 9.3365671, 
+        "long": 2.6440731, 
+        "name": "Université de Parakou"
+    }, 
+    {
+        "lat": 0.288794, 
+        "long": 34.7644556, 
+        "name": "Masinde Muliro University of Science and Technology"
+    }, 
+    {
+        "lat": 35.7391495, 
+        "long": -0.5354197, 
+        "name": "Géologie"
+    }, 
+    {
+        "lat": 37.5996141, 
+        "long": -0.9789505, 
+        "name": "Escuela Técnica Superior de Ingeniería Industrial "
+    }, 
+    {
+        "lat": 37.6062544, 
+        "long": -0.9788275, 
+        "name": "Aulario General I "
+    }, 
+    {
+        "lat": 37.6015199, 
+        "long": -0.9784922, 
+        "name": "Escuela Técnica Superior de Ingeniería de Telecomunicaciones - UPCT"
+    }, 
+    {
+        "lat": 37.5988041, 
+        "long": -0.98755, 
+        "name": "Facultad de Ciencias de la Empresa "
+    }, 
+    {
+        "lat": 37.601403, 
+        "long": -0.9784761, 
+        "name": "CRAI, Sala 1"
+    }, 
+    {
+        "lat": 37.5985299, 
+        "long": -0.9877727, 
+        "name": "CRAI, Sala 3"
+    }, 
+    {
+        "lat": 37.6042247, 
+        "long": -0.97948, 
+        "name": "Rectorado UPCT"
+    }, 
+    {
+        "lat": 6.3663177, 
+        "long": 2.5208533, 
+        "name": "Houdegbe North American University"
+    }, 
+    {
+        "lat": 14.9166172, 
+        "long": -23.5266931, 
+        "name": "Unica"
+    }, 
+    {
+        "lat": 6.3538846, 
+        "long": 2.4100361, 
+        "name": "Institut National Medico Sanitaire (INMeS)"
+    }, 
+    {
+        "lat": -2.6163895, 
+        "long": 29.7427147, 
+        "name": "National University of Rwanda"
+    }, 
+    {
+        "lat": 5.218422, 
+        "long": -3.7385149, 
+        "name": "Workers' Traning College"
+    }, 
+    {
+        "lat": 13.8430416, 
+        "long": 8.9866117, 
+        "name": "Université de Zinder"
+    }, 
+    {
+        "lat": 13.4978899, 
+        "long": 2.100902, 
+        "name": "Centre Regional AGRHYMET"
+    }, 
+    {
+        "lat": -0.405308, 
+        "long": 37.1160889, 
+        "name": "Karatina university Itiati campus"
+    }, 
+    {
+        "lat": 6.461094, 
+        "long": 7.494733, 
+        "name": "ESUT COLLEGE Of Medicine Enugu"
+    }, 
+    {
+        "lat": 6.462455, 
+        "long": 7.495811, 
+        "name": "ESUT Medicine Student's Hostel"
+    }, 
+    {
+        "lat": 6.461448, 
+        "long": 7.494273, 
+        "name": "ESUTH Pediatrics Emergency"
+    }, 
+    {
+        "lat": 6.461798, 
+        "long": 7.493526, 
+        "name": "Eye Theatre/Clinic, Children Out Patient Clinic/Gynae Ward, Enugu State Teaching Hospital"
+    }, 
+    {
+        "lat": 6.461937, 
+        "long": 7.494073, 
+        "name": "Hematology Dept, Enugu State University Teaching Hospital"
+    }, 
+    {
+        "lat": 6.462859, 
+        "long": 7.494071, 
+        "name": "Mammography Unit, Enugu State University Teaching Hospital"
+    }, 
+    {
+        "lat": 6.461387, 
+        "long": 7.49381, 
+        "name": "Pharmacy Dept, Enugu State University Teaching Hospital"
+    }, 
+    {
+        "lat": 6.461368, 
+        "long": 7.493907, 
+        "name": "Physiotherapy Dept, Enugu State University Teaching Hospital"
+    }, 
+    {
+        "lat": 6.461857, 
+        "long": 7.494261, 
+        "name": "Surgical Ward, Enugu State University Teaching Hospital"
+    }, 
+    {
+        "lat": 6.462189, 
+        "long": 7.494012, 
+        "name": "Theatre, Enugu State University Teaching Hospital"
+    }, 
+    {
+        "lat": 6.4630713, 
+        "long": 7.494189, 
+        "name": "Radiology Dept, Enugu State University Teaching Hospital"
+    }, 
+    {
+        "lat": 38.1005182, 
+        "long": 13.3444453, 
+        "name": "Consorzio ARCA"
+    }, 
+    {
+        "lat": 37.813367, 
+        "long": 45.9494689, 
+        "name": "دانشگاه شهيد مدنی آزربايجان"
+    }, 
+    {
+        "lat": -12.5837233, 
+        "long": 13.4084968, 
+        "name": "Instituto Superior Politécnico Maravilha"
+    }, 
+    {
+        "lat": -12.5734, 
+        "long": 13.4001421, 
+        "name": "ISPB"
+    }, 
+    {
+        "lat": 38.0612553, 
+        "long": 46.3298484, 
+        "name": "دانشگاه تبريز"
+    }, 
+    {
+        "lat": 0.0360232, 
+        "long": 18.2502022, 
+        "name": "UNIMBA"
+    }, 
+    {
+        "lat": 31.3059369, 
+        "long": 30.0636344, 
+        "name": "المعهــد العـالي للسـياحة والفنــادق وترميم الآثـار بأبي قـــير بالإسكندريـة"
+    }, 
+    {
+        "lat": 25.4216336, 
+        "long": 55.4433424, 
+        "name": "University"
+    }, 
+    {
+        "lat": 37.888233, 
+        "long": 41.1320359, 
+        "name": "Açık Öğretim Fakültesi Bürosu"
+    }, 
+    {
+        "lat": 0.0536163, 
+        "long": 18.2607073, 
+        "name": "ISDR"
+    }, 
+    {
+        "lat": 0.0436972, 
+        "long": 18.2534941, 
+        "name": "ISP"
+    }, 
+    {
+        "lat": 0.0542855, 
+        "long": 18.2599929, 
+        "name": "Institut d'Etudes Médicales"
+    }, 
+    {
+        "lat": 34.618999, 
+        "long": 43.71298, 
+        "name": "ثانوية الحضارة"
+    }, 
+    {
+        "lat": -19.8422471, 
+        "long": 47.0354599, 
+        "name": "ESSVA"
+    }, 
+    {
+        "lat": 32.8454917, 
+        "long": 59.2292191, 
+        "name": "دانشگاه ازاد"
+    }, 
+    {
+        "lat": 32.392662, 
+        "long": 46.126189, 
+        "name": "الجهادل"
+    }, 
+    {
+        "lat": 33.4253106, 
+        "long": 43.2945736, 
+        "name": "اعدادية الرمادي"
+    }, 
+    {
+        "lat": 33.4441581, 
+        "long": 43.3380242, 
+        "name": "متوسطة الرسالة الخالدة"
+    }, 
+    {
+        "lat": 33.481837, 
+        "long": 43.160989, 
+        "name": "ثانوية الجهاد"
+    }, 
+    {
+        "lat": 33.43342, 
+        "long": 43.482964, 
+        "name": "متوسطة الصديق"
+    }, 
+    {
+        "lat": 33.403073, 
+        "long": 43.459888, 
+        "name": "ثانوية الهجر"
+    }, 
+    {
+        "lat": 33.4025665, 
+        "long": 43.2624526, 
+        "name": "معهد التكنولوجيا"
+    }, 
+    {
+        "lat": 32.360063, 
+        "long": 44.788101, 
+        "name": "متوسطة البعث"
+    }, 
+    {
+        "lat": 35.6609709, 
+        "long": 51.3357856, 
+        "name": "دانشکده فنی و حرفه ای دخترانه"
+    }, 
+    {
+        "lat": 32.3731964, 
+        "long": 44.6499034, 
+        "name": "اعدادية الهاشمية"
+    }, 
+    {
+        "lat": 33.551251, 
+        "long": 44.51819, 
+        "name": "مركز تدريب الهندسة العسكرية"
+    }, 
+    {
+        "lat": 33.14004, 
+        "long": 44.190279, 
+        "name": "قلعة شبيب"
+    }, 
+    {
+        "lat": 17.0701025, 
+        "long": 54.1599569, 
+        "name": "مدرسة الصعدة الإبتدائية للبنات"
+    }, 
+    {
+        "lat": 30.530703, 
+        "long": 47.8601308, 
+        "name": "جامعة البصرة"
+    }, 
+    {
+        "lat": 30.432667, 
+        "long": 47.927178, 
+        "name": "معهد الصناعة"
+    }, 
+    {
+        "lat": 30.232371, 
+        "long": 47.772487, 
+        "name": "مركز التدريب المهني لخور الزبير"
+    }, 
+    {
+        "lat": 30.5303855, 
+        "long": 47.8601943, 
+        "name": "جامعة البصره"
+    }, 
+    {
+        "lat": 36.373103, 
+        "long": 43.135373, 
+        "name": "جامعة الموصل"
+    }, 
+    {
+        "lat": 36.385153, 
+        "long": 43.145607, 
+        "name": "كلية الطب البيطري"
+    }, 
+    {
+        "lat": 36.379143, 
+        "long": 43.150761, 
+        "name": "معهد التكنلوجيا"
+    }, 
+    {
+        "lat": 35.389856, 
+        "long": 44.348381, 
+        "name": "الكلية التقنية و المعهد الفني"
+    }, 
+    {
+        "lat": 33.648316, 
+        "long": 43.406054, 
+        "name": "جامعة صدام"
+    }, 
+    {
+        "lat": 33.98128, 
+        "long": 44.958244, 
+        "name": "ثانوية الكندي"
+    }, 
+    {
+        "lat": 34.095452, 
+        "long": 45.052248, 
+        "name": "ثانوية القائد"
+    }, 
+    {
+        "lat": 34.119122, 
+        "long": 45.025588, 
+        "name": "قرية حمرين"
+    }, 
+    {
+        "lat": -13.7846438, 
+        "long": 33.7887705, 
+        "name": "School of Aviation"
+    }, 
+    {
+        "lat": -13.9171863, 
+        "long": 33.7891636, 
+        "name": "Guidance Councelling and Youth Development Centre for Africa"
+    }, 
+    {
+        "lat": 37.9196448, 
+        "long": 40.2692, 
+        "name": "Diş Hekimliği Fakültesi"
+    }, 
+    {
+        "lat": 37.9130096, 
+        "long": 40.2731984, 
+        "name": "İlahiyat Fakültesi"
+    }, 
+    {
+        "lat": 37.9180603, 
+        "long": 40.2691223, 
+        "name": "Hukuk Fakültesi"
+    }, 
+    {
+        "lat": 37.9194738, 
+        "long": 40.2672555, 
+        "name": "Tıp Fakültesi"
+    }, 
+    {
+        "lat": 37.9132339, 
+        "long": 40.2766177, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 37.9151197, 
+        "long": 40.2771245, 
+        "name": "Meslek Yüksekokulu"
+    }, 
+    {
+        "lat": 37.9153821, 
+        "long": 40.2757298, 
+        "name": "Mühendislik - Mimarlık Fakültesi"
+    }, 
+    {
+        "lat": 37.9184884, 
+        "long": 40.2678548, 
+        "name": "Fen Edebiyat Fakültesi"
+    }, 
+    {
+        "lat": 37.905927, 
+        "long": 40.2740024, 
+        "name": "Eğitim Fakültesi"
+    }, 
+    {
+        "lat": 37.9059778, 
+        "long": 40.2778326, 
+        "name": "İktisadi İdari Bilimler Fakültesi"
+    }, 
+    {
+        "lat": 37.8978239, 
+        "long": 40.2791632, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 37.9173919, 
+        "long": 40.2788394, 
+        "name": "Merkezi Kütüphane Ve Konferans Merkezi"
+    }, 
+    {
+        "lat": 33.8269607, 
+        "long": 35.5215977, 
+        "name": "NA"
+    }, 
+    {
+        "lat": -1.2581178, 
+        "long": 36.8561643, 
+        "name": "KPLC Training School"
+    }, 
+    {
+        "lat": 36.7285117, 
+        "long": 43.8501252, 
+        "name": "Akree University"
+    }, 
+    {
+        "lat": 25.0693219, 
+        "long": 55.1423788, 
+        "name": "Synergy University Dubai"
+    }, 
+    {
+        "lat": 12.127812, 
+        "long": 15.0001343, 
+        "name": "Faculté des Sciences Exactes et Appliquées"
+    }, 
+    {
+        "lat": 37.0074957, 
+        "long": 37.4365371, 
+        "name": "Gazikent Üniversitesi"
+    }, 
+    {
+        "lat": 36.7583811, 
+        "long": 3.0293836, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 37.9299421, 
+        "long": 46.1432579, 
+        "name": "Səhənd"
+    }, 
+    {
+        "lat": 36.861777, 
+        "long": 42.9873392, 
+        "name": "University of Dohuk"
+    }, 
+    {
+        "lat": 9.0824653, 
+        "long": 18.4244223, 
+        "name": "Rectorat Universite de sarh"
+    }, 
+    {
+        "lat": 38.750337, 
+        "long": -9.1556466, 
+        "name": "Faculdade Medicina Dentária Universidade de Lisboa"
+    }, 
+    {
+        "lat": 14.713565, 
+        "long": -17.4606548, 
+        "name": "Institut IPAC"
+    }, 
+    {
+        "lat": 35.2972722, 
+        "long": 46.998366, 
+        "name": "دانشگاه امام حسین"
+    }, 
+    {
+        "lat": 35.28258, 
+        "long": 47.0116617, 
+        "name": "Sama ( دانشکده سما )"
+    }, 
+    {
+        "lat": 35.3094916, 
+        "long": 47.0036117, 
+        "name": "Azad ( دانشگاه آزاد واحد علوم انسانی )"
+    }, 
+    {
+        "lat": -5.2629644, 
+        "long": 14.8580015, 
+        "name": "Guesthouse & accueil"
+    }, 
+    {
+        "lat": -5.2706333, 
+        "long": 14.8561333, 
+        "name": "Université Kongo, Rectorat & administration"
+    }, 
+    {
+        "lat": -5.2630913, 
+        "long": 14.8575947, 
+        "name": "Cybercafé & auditoires"
+    }, 
+    {
+        "lat": -5.2623035, 
+        "long": 14.8392965, 
+        "name": "Faculté de Droit"
+    }, 
+    {
+        "lat": 14.7110984, 
+        "long": -17.478786, 
+        "name": "Université du Sahel"
+    }, 
+    {
+        "lat": 35.326733, 
+        "long": 47.0019932, 
+        "name": "Bent Alhoda Sadr ( پردیس دانشگاهی بنت الهدی صدر - تربیت معلم خواهران )"
+    }, 
+    {
+        "lat": 35.310091, 
+        "long": 47.0005707, 
+        "name": "Tooba ( جهاد دانشگاهی آموزش زبان های خارجی شاخه طوبی )"
+    }, 
+    {
+        "lat": 28.0920248, 
+        "long": -17.1109238, 
+        "name": "Universidad Nacional de Educación a Distancia"
+    }, 
+    {
+        "lat": -6.2135612, 
+        "long": 35.792346, 
+        "name": "University of Dodoma"
+    }, 
+    {
+        "lat": 37.7956019, 
+        "long": -0.8084932, 
+        "name": "Centro Universitario de la Defensa"
+    }, 
+    {
+        "lat": 35.3045943, 
+        "long": 46.9807395, 
+        "name": "Jame Elmi Karbordi Modiriat Sanati ( دانشگاه جامع علمی کاربردی - مدیریت صنعتی )"
+    }, 
+    {
+        "lat": 30.0260442, 
+        "long": 31.4922165, 
+        "name": "كلية الهندسة"
+    }, 
+    {
+        "lat": 30.0261802, 
+        "long": 31.4917164, 
+        "name": "كلية علوم الحاسب"
+    }, 
+    {
+        "lat": 30.0264908, 
+        "long": 31.4920965, 
+        "name": "كلية التجارة وادارة الأعمال"
+    }, 
+    {
+        "lat": 35.7711548, 
+        "long": 10.8251925, 
+        "name": "جامعة المنستير"
+    }, 
+    {
+        "lat": 35.6754049, 
+        "long": 10.1091069, 
+        "name": "جامعة القيروان للخدمات الجامعية"
+    }, 
+    {
+        "lat": 12.1106828, 
+        "long": 15.0500597, 
+        "name": "Lycée Roi Faiçal"
+    }, 
+    {
+        "lat": 13.7964513, 
+        "long": 20.8380185, 
+        "name": "Institut Universitaire de science d'Abéché"
+    }, 
+    {
+        "lat": 6.1333341, 
+        "long": 1.2424729, 
+        "name": "Ecole Supérieure de Gestion , d'Informatique et des Sciences"
+    }, 
+    {
+        "lat": 28.4836925, 
+        "long": -16.3101065, 
+        "name": "Escuela Superior de Estudios Técnicos de Canarias"
+    }, 
+    {
+        "lat": 36.7317798, 
+        "long": 3.3918147, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 5.5820471, 
+        "long": -0.1662988, 
+        "name": "Webster University Campus Ghana"
+    }, 
+    {
+        "lat": 30.2571592, 
+        "long": 57.0824842, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 12.0941058, 
+        "long": 15.0587751, 
+        "name": "Université Libre (Sup Management)"
+    }, 
+    {
+        "lat": 37.0332528, 
+        "long": 37.3125394, 
+        "name": "Eğitim Fakültesi"
+    }, 
+    {
+        "lat": 37.0335991, 
+        "long": 37.314154, 
+        "name": "Tekstil Mühendisliği"
+    }, 
+    {
+        "lat": 37.0339526, 
+        "long": 37.3144466, 
+        "name": "Fizik Mühendisliği"
+    }, 
+    {
+        "lat": 37.0339044, 
+        "long": 37.3110614, 
+        "name": "İktisadi ve İdari Bilimler Fakültesi"
+    }, 
+    {
+        "lat": 37.0276317, 
+        "long": 37.3074131, 
+        "name": "Teknopark"
+    }, 
+    {
+        "lat": 5.607476, 
+        "long": -0.0600694, 
+        "name": "Regional Maritime University"
+    }, 
+    {
+        "lat": 24.7415915, 
+        "long": 46.7028417, 
+        "name": "Prince Sultan University"
+    }, 
+    {
+        "lat": 8.5753174, 
+        "long": 16.0734054, 
+        "name": "Institut Universitaire Evangélique"
+    }, 
+    {
+        "lat": 37.0408656, 
+        "long": 37.3184286, 
+        "name": "Tıp Fakültesi"
+    }, 
+    {
+        "lat": 25.7882694, 
+        "long": 55.9929812, 
+        "name": "American University of Ras Al Khaimah"
+    }, 
+    {
+        "lat": 7.4002908, 
+        "long": 3.8662452, 
+        "name": "Lead City University Jericho Campus"
+    }, 
+    {
+        "lat": 36.3224511, 
+        "long": 49.9869045, 
+        "name": "دانشگاه غیر انتفائی غزالی"
+    }, 
+    {
+        "lat": 34.2978957, 
+        "long": 47.0350079, 
+        "name": "دانشگاه صنعتی کرمانشاه"
+    }, 
+    {
+        "lat": -33.9308154, 
+        "long": 18.4298723, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 9.5621001, 
+        "long": 44.0386021, 
+        "name": "Gollis University"
+    }, 
+    {
+        "lat": 36.18221, 
+        "long": 44.0063326, 
+        "name": "University of Kurdistan Hewlêr"
+    }, 
+    {
+        "lat": 34.3648389, 
+        "long": 47.1236696, 
+        "name": "کانون زبان ایران"
+    }, 
+    {
+        "lat": 34.3887086, 
+        "long": 47.1111028, 
+        "name": "دانشکده مهندسی"
+    }, 
+    {
+        "lat": 38.006616, 
+        "long": 32.5167799, 
+        "name": "Mevlana Üniversitesi"
+    }, 
+    {
+        "lat": 33.8928984, 
+        "long": 35.4782996, 
+        "name": "الجامعة البنانية الأمريكية"
+    }, 
+    {
+        "lat": -22.5467229, 
+        "long": 17.0637782, 
+        "name": "UNAM medical campus"
+    }, 
+    {
+        "lat": 36.7125877, 
+        "long": 3.1846404, 
+        "name": "neurobiology laboratory"
+    }, 
+    {
+        "lat": 36.6284498, 
+        "long": 52.2525944, 
+        "name": "دانشگاه خزر محموداباد"
+    }, 
+    {
+        "lat": 36.8458186, 
+        "long": 10.2691159, 
+        "name": "Mediterranean School of Business"
+    }, 
+    {
+        "lat": -33.9075423, 
+        "long": 18.5947148, 
+        "name": "UNISA"
+    }, 
+    {
+        "lat": 37.7869056, 
+        "long": 41.0626067, 
+        "name": "Teknoloji Fakültesi"
+    }, 
+    {
+        "lat": 13.5118942, 
+        "long": 2.1281515, 
+        "name": "Faculté des Sciences Économiques et Juridiques"
+    }, 
+    {
+        "lat": 13.5235811, 
+        "long": 2.1061596, 
+        "name": "ENAM"
+    }, 
+    {
+        "lat": 33.377322, 
+        "long": 35.496527, 
+        "name": "Lebanese University of Science"
+    }, 
+    {
+        "lat": 33.3779491, 
+        "long": 35.4992735, 
+        "name": "Lebanese International University"
+    }, 
+    {
+        "lat": 33.8846691, 
+        "long": 35.4973682, 
+        "name": "LIU"
+    }, 
+    {
+        "lat": 13.515136, 
+        "long": 2.1002641, 
+        "name": "Institut de Santé Publique"
+    }, 
+    {
+        "lat": 13.522545, 
+        "long": 2.1068656, 
+        "name": "Institut Superieure de la Telecommunication"
+    }, 
+    {
+        "lat": 13.5161396, 
+        "long": 2.1242039, 
+        "name": "Bagzam"
+    }, 
+    {
+        "lat": 13.5145215, 
+        "long": 2.1267309, 
+        "name": "IPHEC"
+    }, 
+    {
+        "lat": 13.5254195, 
+        "long": 2.1211, 
+        "name": "Institut Superieure Askia Mohamed"
+    }, 
+    {
+        "lat": 6.519899, 
+        "long": 3.3983169, 
+        "name": "University of Lagos"
+    }, 
+    {
+        "lat": 34.68795, 
+        "long": 33.0294665, 
+        "name": "Pedagogical Institute"
+    }, 
+    {
+        "lat": 34.6842936, 
+        "long": 33.0343826, 
+        "name": "IMS"
+    }, 
+    {
+        "lat": 24.2392645, 
+        "long": 55.7405462, 
+        "name": "Al Ain University of Science and Technology"
+    }, 
+    {
+        "lat": 37.3687342, 
+        "long": 46.0505712, 
+        "name": "دانشگاه بناب"
+    }, 
+    {
+        "lat": 37.3676598, 
+        "long": 46.0446704, 
+        "name": "دانشگاه آزاد"
+    }, 
+    {
+        "lat": 37.3721106, 
+        "long": 46.0503996, 
+        "name": "دانشگاه پیام نور"
+    }, 
+    {
+        "lat": 37.1684739, 
+        "long": 38.995693, 
+        "name": "İktisadi ve İdari Bilimler Fakültesi"
+    }, 
+    {
+        "lat": 37.1684463, 
+        "long": 39.0006947, 
+        "name": "Güzel Sanatlar Fakültesi"
+    }, 
+    {
+        "lat": 37.1707085, 
+        "long": 39.0016378, 
+        "name": "Ziraat Fakültesi"
+    }, 
+    {
+        "lat": 37.1721618, 
+        "long": 39.0016217, 
+        "name": "Mühendislik Fakültesi"
+    }, 
+    {
+        "lat": 37.7855216, 
+        "long": 41.0633796, 
+        "name": "Güzel Sanatlar Fakültesi"
+    }, 
+    {
+        "lat": 6.8011128, 
+        "long": 29.6863505, 
+        "name": "Rumbek University"
+    }, 
+    {
+        "lat": 13.4753164, 
+        "long": 2.174448, 
+        "name": "ASECNA"
+    }, 
+    {
+        "lat": -6.1172979, 
+        "long": 39.2114946, 
+        "name": "Trocen"
+    }, 
+    {
+        "lat": 36.5054525, 
+        "long": 2.8733967, 
+        "name": "Faculté de Biologie"
+    }, 
+    {
+        "lat": 16.06251, 
+        "long": -16.421137, 
+        "name": "Rectorat De L'Université Gaston Berger"
+    }, 
+    {
+        "lat": 36.812612, 
+        "long": 7.7148552, 
+        "name": "Université Badji Mokhtar - Sidi Amar"
+    }, 
+    {
+        "lat": 38.5642414, 
+        "long": -6.3415676, 
+        "name": "Universidad Popular Villafranca de los Barros"
+    }, 
+    {
+        "lat": 37.7894139, 
+        "long": 41.0624167, 
+        "name": "İktisadi ve İdari Bilimler Fak. İnşaatı"
+    }, 
+    {
+        "lat": 0.1811534, 
+        "long": 30.0898001, 
+        "name": "Bugema University Kasese Centre"
+    }, 
+    {
+        "lat": 36.5083219, 
+        "long": 8.7601605, 
+        "name": "Université de économie de Jendouba"
+    }, 
+    {
+        "lat": 36.5103806, 
+        "long": 8.7598958, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 36.5064083, 
+        "long": 8.7589299, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 36.5139238, 
+        "long": 8.7584159, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 23.5899461, 
+        "long": 58.1768844, 
+        "name": "Sultan Qaboos University"
+    }, 
+    {
+        "lat": 35.8985191, 
+        "long": 14.5155899, 
+        "name": "University of Malta (Valletta Campus)"
+    }, 
+    {
+        "lat": 0.4572648, 
+        "long": 33.2236133, 
+        "name": "Kampala University Jinja Branch"
+    }, 
+    {
+        "lat": -18.8967618, 
+        "long": 32.6010564, 
+        "name": "Africa University"
+    }, 
+    {
+        "lat": 31.6969787, 
+        "long": 35.1893536, 
+        "name": "Dar al-Kalima University College of Arts and Culture"
+    }, 
+    {
+        "lat": 37.2715781, 
+        "long": 49.5557614, 
+        "name": "دانشکده پرستاری"
+    }, 
+    {
+        "lat": 35.7036077, 
+        "long": 51.4529624, 
+        "name": "دانشکده فنی شهید شمسی پور"
+    }, 
+    {
+        "lat": 35.5999645, 
+        "long": 53.4331915, 
+        "name": "دانشکده فنی و مهندسی"
+    }, 
+    {
+        "lat": 35.6079928, 
+        "long": 53.4374356, 
+        "name": "دانشکده دامپزشکی"
+    }, 
+    {
+        "lat": 37.2090639, 
+        "long": 50.0707479, 
+        "name": "دانشگاه پیام نور"
+    }, 
+    {
+        "lat": 31.8344018, 
+        "long": 54.3562949, 
+        "name": "دانشگاه یزد"
+    }, 
+    {
+        "lat": 31.839483, 
+        "long": 54.3514241, 
+        "name": "دانشگاه آزاد یزد"
+    }, 
+    {
+        "lat": 33.5987617, 
+        "long": -7.6357957, 
+        "name": "LYCEE LYAUTE"
+    }, 
+    {
+        "lat": 37.864001, 
+        "long": 32.4501088, 
+        "name": "İlahiyat Fakültesi"
+    }, 
+    {
+        "lat": 37.8907547, 
+        "long": 40.2734726, 
+        "name": "Ziraat Fakültesi"
+    }, 
+    {
+        "lat": 37.9191964, 
+        "long": 40.2717859, 
+        "name": "Yabancı Diller Yüksekokulu"
+    }, 
+    {
+        "lat": 37.1582744, 
+        "long": 50.2843529, 
+        "name": "دانشگاه آزاد رودسر"
+    }, 
+    {
+        "lat": 37.1614312, 
+        "long": 28.3757538, 
+        "name": "MSKU Engineering Faculty"
+    }, 
+    {
+        "lat": 27.1712971, 
+        "long": 56.2492723, 
+        "name": "دانشگاه پیام نور"
+    }, 
+    {
+        "lat": 27.2081416, 
+        "long": 56.3078777, 
+        "name": "دانشکاه سما"
+    }, 
+    {
+        "lat": -15.376976, 
+        "long": 35.3250445, 
+        "name": "Chancellor's College Language Centre"
+    }, 
+    {
+        "lat": -15.3805902, 
+        "long": 35.3259243, 
+        "name": "Theological College"
+    }, 
+    {
+        "lat": 34.4359932, 
+        "long": 35.856799, 
+        "name": "كلية العلوم الفرع الثالث"
+    }, 
+    {
+        "lat": 34.4359097, 
+        "long": 35.8539229, 
+        "name": "كلية الأداب الفرع الثالث"
+    }, 
+    {
+        "lat": -15.3841312, 
+        "long": 28.702784, 
+        "name": "Chalimbana University (NISTCOL)"
+    }, 
+    {
+        "lat": -1.217897, 
+        "long": 36.8790741, 
+        "name": "United States International University"
+    }, 
+    {
+        "lat": 38.3153751, 
+        "long": 26.6360245, 
+        "name": "Izmir Institute of Technology"
+    }, 
+    {
+        "lat": 10.3033971, 
+        "long": 11.1748112, 
+        "name": "Gombe state University"
+    }, 
+    {
+        "lat": 34.0548623, 
+        "long": -6.8081139, 
+        "name": "École d'Enseignement Supérieur de Technologie"
+    }, 
+    {
+        "lat": 12.3766079, 
+        "long": -1.4985764, 
+        "name": "INSTITUT SUPÉRIEUR DES SCIENCES DE LA POPULATION"
+    }, 
+    {
+        "lat": 31.252089, 
+        "long": 34.8006087, 
+        "name": "אוניברסיטת בן גוריון קמפוס ברגמן"
+    }, 
+    {
+        "lat": 12.3774193, 
+        "long": -1.5025032, 
+        "name": "Unité de formation et Recherche en Sciences Exactes Aplliquées"
+    }, 
+    {
+        "lat": 12.3765624, 
+        "long": -1.4996263, 
+        "name": "Unité de Formation et de Récherche en Sciences Juridiques et Politiques"
+    }, 
+    {
+        "lat": 37.1844032, 
+        "long": 49.6611498, 
+        "name": "دانشکده تربیت بدنی دانشگاه گیلان"
+    }, 
+    {
+        "lat": 33.8795067, 
+        "long": 35.567257, 
+        "name": "الجامعة اللبنانية كلية العلوم"
+    }, 
+    {
+        "lat": 37.0724294, 
+        "long": 37.3678337, 
+        "name": "Sanko Üniversitesi"
+    }, 
+    {
+        "lat": 37.6040274, 
+        "long": -0.9912931, 
+        "name": "ISEN"
+    }, 
+    {
+        "lat": 35.5430753, 
+        "long": 6.1698392, 
+        "name": "Institut De Psychologie"
+    }, 
+    {
+        "lat": 10.5231473, 
+        "long": 7.4149557, 
+        "name": "Kaduna Polytechnic University"
+    }, 
+    {
+        "lat": -0.2854583, 
+        "long": 36.0656552, 
+        "name": "Egerton University Nakuru Town Campus"
+    }, 
+    {
+        "lat": -0.2848857, 
+        "long": 36.0660452, 
+        "name": "Kenyatta University Nakuru Campus"
+    }, 
+    {
+        "lat": 35.2240624, 
+        "long": 60.6167896, 
+        "name": "دانشگاه پیام نور تربت جام"
+    }, 
+    {
+        "lat": 35.1438672, 
+        "long": 33.89927, 
+        "name": "Faculty of Medicine"
+    }, 
+    {
+        "lat": 35.1414122, 
+        "long": 33.9104242, 
+        "name": "Department of Economics"
+    }, 
+    {
+        "lat": 35.1412521, 
+        "long": 33.9101774, 
+        "name": "Faculty of Business & Economics"
+    }, 
+    {
+        "lat": 35.1415241, 
+        "long": 33.9106012, 
+        "name": "Department of Business Administration"
+    }, 
+    {
+        "lat": 35.1439229, 
+        "long": 33.9112793, 
+        "name": "Faculty of Tourism"
+    }, 
+    {
+        "lat": 35.1441005, 
+        "long": 33.9111555, 
+        "name": "School of Tourism and Hospitality Management"
+    }, 
+    {
+        "lat": 35.1450045, 
+        "long": 33.9087519, 
+        "name": "Department of Civil Engineering"
+    }, 
+    {
+        "lat": 26.5892343, 
+        "long": 54.91563, 
+        "name": "دانشگاه علمی کاربردی"
+    }, 
+    {
+        "lat": 34.0142401, 
+        "long": 51.4037478, 
+        "name": "دانشگاه علوم پزشکی"
+    }, 
+    {
+        "lat": 34.0142845, 
+        "long": 51.4001429, 
+        "name": "دانشگاه آزاد اسلامی کاشان"
+    }, 
+    {
+        "lat": 5.1296928, 
+        "long": 10.5849855, 
+        "name": "Université des Montagnes"
+    }, 
+    {
+        "lat": 34.0160716, 
+        "long": 51.3676271, 
+        "name": "دانشگاه فنی شهید رجایی"
+    }, 
+    {
+        "lat": 38.7144159, 
+        "long": 35.5521745, 
+        "name": "Hacı Boydak Yabancı Diller Yüksek Okulu"
+    }, 
+    {
+        "lat": 5.5708833, 
+        "long": -0.2090898, 
+        "name": "Sikkim Manipal University Ghana"
+    }, 
+    {
+        "lat": 35.7366944, 
+        "long": 51.5817837, 
+        "name": "دانشگاه شهید بهشتی پردیس فنی و مهندسی شهید عباس پور"
+    }, 
+    {
+        "lat": 0.5908732, 
+        "long": 33.4607546, 
+        "name": "Busoga University"
+    }, 
+    {
+        "lat": 1.0840801, 
+        "long": 34.1797289, 
+        "name": "Livingstone International University, Mbale"
+    }, 
+    {
+        "lat": 38.3280275, 
+        "long": 38.4337241, 
+        "name": "Devlet Konservatuarı"
+    }, 
+    {
+        "lat": 38.3280812, 
+        "long": 38.4343139, 
+        "name": "Güzel Sanatlar ve Tasarım Fakültesi"
+    }, 
+    {
+        "lat": 38.3307426, 
+        "long": 38.4340723, 
+        "name": "İlahiyat Fakültesi"
+    }, 
+    {
+        "lat": 38.336925, 
+        "long": 38.431203, 
+        "name": "Tıp Fakültesi"
+    }, 
+    {
+        "lat": 5.6671241, 
+        "long": -0.2305864, 
+        "name": "Graduate School of Nuclear and Allied Sciences - University of Ghana"
+    }, 
+    {
+        "lat": 0.5912474, 
+        "long": 33.4607085, 
+        "name": "Busoga University;Computer Labs"
+    }, 
+    {
+        "lat": 30.5395152, 
+        "long": 49.1742721, 
+        "name": "دانشگاه امیرکبیر"
+    }, 
+    {
+        "lat": -25.7542559, 
+        "long": 28.2321043, 
+        "name": "University Of Pretoria"
+    }, 
+    {
+        "lat": 31.9408094, 
+        "long": 5.3080915, 
+        "name": "Faculté de Médecine"
+    }, 
+    {
+        "lat": 6.6727707, 
+        "long": -1.5652804, 
+        "name": "The Energy Center - KNUST (current offices)"
+    }, 
+    {
+        "lat": 6.6731869, 
+        "long": -1.5645102, 
+        "name": "Engineering New Block"
+    }, 
+    {
+        "lat": 6.6755963, 
+        "long": -1.5668689, 
+        "name": "Faculty of Agriculture"
+    }, 
+    {
+        "lat": 6.6745878, 
+        "long": -1.5658411, 
+        "name": "Department of Modern Languages"
+    }, 
+    {
+        "lat": 6.6746199, 
+        "long": -1.5656516, 
+        "name": "Department of English"
+    }, 
+    {
+        "lat": 6.6747214, 
+        "long": -1.5655948, 
+        "name": "College of Art and Social Science"
+    }, 
+    {
+        "lat": 6.6747872, 
+        "long": -1.5655471, 
+        "name": "Faculty of Social Sciences"
+    }, 
+    {
+        "lat": 6.6747145, 
+        "long": -1.56543, 
+        "name": "Department of Geography and Rural Development"
+    }, 
+    {
+        "lat": 6.6746517, 
+        "long": -1.5654703, 
+        "name": "Department of History and Political Studies"
+    }, 
+    {
+        "lat": 0.1958893, 
+        "long": 34.7604514, 
+        "name": "Sigalagala Polytechnic"
+    }, 
+    {
+        "lat": 36.1984824, 
+        "long": 44.0202808, 
+        "name": "Hawler Medical University"
+    }, 
+    {
+        "lat": 35.9010582, 
+        "long": 14.4778933, 
+        "name": "Faculty of Health Sciences - University of Malta"
+    }, 
+    {
+        "lat": 33.9818873, 
+        "long": 35.6186585, 
+        "name": "saint esprit de kaslik usek"
+    }, 
+    {
+        "lat": 33.9825594, 
+        "long": 35.6202054, 
+        "name": "USEK"
+    }, 
+    {
+        "lat": 37.6061181, 
+        "long": -0.9904193, 
+        "name": "Escuela Universitaria de Turismo de Cartagena"
+    }, 
+    {
+        "lat": 0.4396426, 
+        "long": 33.2011913, 
+        "name": "MUBS Jinja YMCA campus"
+    }, 
+    {
+        "lat": 6.418572, 
+        "long": 2.340408, 
+        "name": "Ecole Nationale d'Administartion et de Magistrature"
+    }, 
+    {
+        "lat": 6.416003, 
+        "long": 2.3422, 
+        "name": "Faculté de Droit et Sciences Politiques"
+    }, 
+    {
+        "lat": 6.4154003, 
+        "long": 2.3432936, 
+        "name": "Faculté de Lettres, Arts et Sciences Humaines"
+    }, 
+    {
+        "lat": 6.416288, 
+        "long": 2.341917, 
+        "name": "Faculté des Sciences Agronomiques"
+    }, 
+    {
+        "lat": 6.4198676, 
+        "long": 2.3409163, 
+        "name": "Faculté des Sciences Economiques et de Gestion"
+    }, 
+    {
+        "lat": 6.4203385, 
+        "long": 2.3418725, 
+        "name": "Faculté des Sciences Techniques"
+    }, 
+    {
+        "lat": 28.0749046, 
+        "long": -15.4166451, 
+        "name": "Facultad de Ciencias de la Salud"
+    }, 
+    {
+        "lat": 14.7002289, 
+        "long": -17.4514, 
+        "name": "École Supérieure Multinationale des Télécommuications ESMT"
+    }, 
+    {
+        "lat": 29.9631205, 
+        "long": 31.015089, 
+        "name": "الأكاديمية الدولية للهندسة وعلوم الأعلام"
+    }, 
+    {
+        "lat": 5.214528, 
+        "long": -3.7480981, 
+        "name": "International University of Grand Bassam"
+    }, 
+    {
+        "lat": 35.7235433, 
+        "long": 51.3839419, 
+        "name": "دانشگاه تربيت مدرس"
+    }, 
+    {
+        "lat": 33.8884317, 
+        "long": -5.5973436, 
+        "name": "Ecole Normale Supérieure (ENS)"
+    }, 
+    {
+        "lat": 38.707644, 
+        "long": -9.1821824, 
+        "name": "Instituto Superior de Agronomia"
+    }, 
+    {
+        "lat": 38.7000961, 
+        "long": -9.1864125, 
+        "name": "Instituto de Higiene e Medicina Tropical"
+    }, 
+    {
+        "lat": 2.0396394, 
+        "long": 45.2872785, 
+        "name": "Somali National University"
+    }, 
+    {
+        "lat": 6.0371811, 
+        "long": 37.5496431, 
+        "name": "Arba Minch Poly Technic Collage"
+    }, 
+    {
+        "lat": 5.3495009, 
+        "long": -4.0104819, 
+        "name": "DEPS"
+    }, 
+    {
+        "lat": 38.5685207, 
+        "long": -7.9022382, 
+        "name": "Esc Sup de Enfermagem"
+    }, 
+    {
+        "lat": -19.109079, 
+        "long": 33.4744272, 
+        "name": "UCM (Universidade Católica de Moçambique)"
+    }, 
+    {
+        "lat": 34.2600516, 
+        "long": 48.8465091, 
+        "name": "دانشگاه ملایر"
+    }, 
+    {
+        "lat": 13.5315343, 
+        "long": 2.1227686, 
+        "name": "ECCAM"
+    }, 
+    {
+        "lat": 35.9592457, 
+        "long": 50.6968475, 
+        "name": "دانشگاه آزاد هشتگرد"
+    }, 
+    {
+        "lat": 13.5314329, 
+        "long": 2.0886909, 
+        "name": "Université Islamique de Niamey"
+    }, 
+    {
+        "lat": 33.8803533, 
+        "long": 35.5671326, 
+        "name": "Universite Libanaise"
+    }, 
+    {
+        "lat": 6.0651173, 
+        "long": 37.5617539, 
+        "name": "Arba Minch University Main Campus-AMIT"
+    }, 
+    {
+        "lat": 31.9385061, 
+        "long": 5.3059023, 
+        "name": "Département de Génie Civil et Hydraulique "
+    }, 
+    {
+        "lat": 31.9411009, 
+        "long": 5.3057521, 
+        "name": "Faculté de Mathématiques et Sciences de la Matière"
+    }, 
+    {
+        "lat": 31.9410931, 
+        "long": 5.2979676, 
+        "name": "Faculté des Sciences de la Nature et la Vie"
+    }, 
+    {
+        "lat": 31.9470622, 
+        "long": 5.2688951, 
+        "name": "Faculté des lettres"
+    }, 
+    {
+        "lat": 31.4454638, 
+        "long": 34.4002552, 
+        "name": "Alquds Almatfoha University"
+    }, 
+    {
+        "lat": 35.7984707, 
+        "long": 51.3943652, 
+        "name": "دانشگاه شهید بهشتی"
+    }, 
+    {
+        "lat": 2.7777742, 
+        "long": 32.2980139, 
+        "name": "Gulu University Faculty Of Medicine"
+    }, 
+    {
+        "lat": 36.3517913, 
+        "long": 6.6110274, 
+        "name": "Faculté de Psychologie et des sciences de l'éducation"
+    }, 
+    {
+        "lat": 36.3498534, 
+        "long": 6.6149607, 
+        "name": "Institut Supérieur des Sciences des Affaires et Formation"
+    }, 
+    {
+        "lat": -7.7759013, 
+        "long": 35.6967978, 
+        "name": "Ruaha University College"
+    }, 
+    {
+        "lat": 31.6533115, 
+        "long": -8.021339, 
+        "name": "Ecole Marocaine des Sciences de l'Ingénieur (EMSI)"
+    }, 
+    {
+        "lat": 6.1466559, 
+        "long": 0.0564379, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 6.1610812, 
+        "long": 1.2186468, 
+        "name": "EAMAU"
+    }, 
+    {
+        "lat": 32.0749132, 
+        "long": 20.1010857, 
+        "name": "جامعة العرب الطبية ArabMedica university"
+    }, 
+    {
+        "lat": -3.082206, 
+        "long": 29.9144219, 
+        "name": "Grand Séminaire de Burasira"
+    }, 
+    {
+        "lat": 37.7294857, 
+        "long": 46.9473015, 
+        "name": "مرکز آموزشی علمی کاربردی استاد شهریار"
+    }, 
+    {
+        "lat": 33.8827501, 
+        "long": 35.5550968, 
+        "name": "AUCE"
+    }, 
+    {
+        "lat": 13.523878, 
+        "long": 2.1015875, 
+        "name": "Ecole des Cadres"
+    }, 
+    {
+        "lat": 34.8431858, 
+        "long": 5.747497, 
+        "name": "université mohamed kheidar"
+    }, 
+    {
+        "lat": 32.3348686, 
+        "long": 50.8803613, 
+        "name": "مرکز رشد واحدهای فناوری دانشگاه آزاد"
+    }, 
+    {
+        "lat": -3.3950783, 
+        "long": 29.3646766, 
+        "name": "Grand Séminaire"
+    }, 
+    {
+        "lat": 0.3117808, 
+        "long": 32.5572556, 
+        "name": "Ndejje University Kampala Campus"
+    }, 
+    {
+        "lat": 33.8649159, 
+        "long": 35.5644065, 
+        "name": "كلية العلوم جامعة القديس يوسف"
+    }, 
+    {
+        "lat": 25.3227, 
+        "long": 51.4439828, 
+        "name": "Qatar Foundation"
+    }, 
+    {
+        "lat": 35.7055504, 
+        "long": 51.4337111, 
+        "name": "خوابگاه دانشجویی آمل دانشگاه علوم پزشکی ایران"
+    }, 
+    {
+        "lat": 32.253215, 
+        "long": 54.0074586, 
+        "name": "دانشگاه علمی کاربردی"
+    }, 
+    {
+        "lat": 5.3313756, 
+        "long": -3.9966317, 
+        "name": "Université Catholique de l'Afrique de l'Ouest (UCAO)"
+    }, 
+    {
+        "lat": -4.2765409, 
+        "long": 15.248225, 
+        "name": "Université Marien Ngouabi"
+    }, 
+    {
+        "lat": -4.2664857, 
+        "long": 15.2737966, 
+        "name": "Université Marien Ngouabi (Bayardelle)"
+    }, 
+    {
+        "lat": 37.9292239, 
+        "long": -1.1622537, 
+        "name": "Campus Ciencias de la Salud"
+    }, 
+    {
+        "lat": 37.4701672, 
+        "long": 47.0481717, 
+        "name": "دانشگاه آزاد"
+    }, 
+    {
+        "lat": 33.4471978, 
+        "long": 50.2843543, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 33.468794, 
+        "long": 50.262076, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 33.4808955, 
+        "long": 50.2746792, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 33.4714174, 
+        "long": 50.2671374, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 38.0567101, 
+        "long": 46.2877707, 
+        "name": "دانشگاه هنر اسلامی تبریز"
+    }, 
+    {
+        "lat": 5.3707728, 
+        "long": -3.9946092, 
+        "name": "Université de l'Atlantique"
+    }, 
+    {
+        "lat": 32.0573549, 
+        "long": 20.0587062, 
+        "name": "جامعه بنغازي Benghazi University"
+    }, 
+    {
+        "lat": 32.0681365, 
+        "long": 20.0848668, 
+        "name": "الجامعه الليبيه الدوليه للعلوم الطبيه University Libyan International Medical Science"
+    }, 
+    {
+        "lat": 0.7553414, 
+        "long": 32.534273, 
+        "name": "Kampala University"
+    }, 
+    {
+        "lat": 21.7098463, 
+        "long": 39.0973086, 
+        "name": "College of marine study"
+    }, 
+    {
+        "lat": 21.7086202, 
+        "long": 39.0979416, 
+        "name": "Faculty of Marine Science"
+    }, 
+    {
+        "lat": 0.7255706, 
+        "long": 32.4062034, 
+        "name": "Nakaseke Into College"
+    }, 
+    {
+        "lat": 24.8719352, 
+        "long": 46.7107011, 
+        "name": "King Abdullah Petroleum Studies and Research Center"
+    }, 
+    {
+        "lat": 14.718823, 
+        "long": -17.4492563, 
+        "name": "UDB"
+    }, 
+    {
+        "lat": 5.326859, 
+        "long": -3.9437915, 
+        "name": "Faculté de théologie évangélique de l'alliance chrétienne (FATEAC)"
+    }, 
+    {
+        "lat": 7.7516607, 
+        "long": 4.568491, 
+        "name": "National Open University of Nigeria"
+    }, 
+    {
+        "lat": 13.491882, 
+        "long": 7.1288849, 
+        "name": "Université de Maradi UIT"
+    }, 
+    {
+        "lat": 34.3529814, 
+        "long": 58.7344386, 
+        "name": "دانشگاه فنی پسران"
+    }, 
+    {
+        "lat": -15.1191538, 
+        "long": 39.1988309, 
+        "name": "Lurio"
+    }, 
+    {
+        "lat": 8.3868965, 
+        "long": -13.1442114, 
+        "name": "Medicine University"
+    }, 
+    {
+        "lat": 31.9953583, 
+        "long": 12.3381661, 
+        "name": "كلية الزراعة"
+    }, 
+    {
+        "lat": 38.0783244, 
+        "long": 46.3007227, 
+        "name": "دانشسرای تبریز"
+    }, 
+    {
+        "lat": 0.3061347, 
+        "long": 32.5622473, 
+        "name": "Uganda Christian University Kampala Campus"
+    }, 
+    {
+        "lat": 0.3019701, 
+        "long": 32.5614314, 
+        "name": "St. Lawrence University"
+    }, 
+    {
+        "lat": 24.7570759, 
+        "long": 46.8571896, 
+        "name": "KSAU-HS"
+    }, 
+    {
+        "lat": 5.29968, 
+        "long": -3.9872384, 
+        "name": "ESMA"
+    }, 
+    {
+        "lat": 12.3692233, 
+        "long": -1.4979114, 
+        "name": "ISIG INTERNATIONAL Annexe"
+    }, 
+    {
+        "lat": 38.0532607, 
+        "long": 46.3404024, 
+        "name": "دانشگاه و مرکز تحقیقات مخابرات تبریز"
+    }, 
+    {
+        "lat": 34.0901525, 
+        "long": 49.7232255, 
+        "name": "دانشگاه علمی و کاربردی"
+    }, 
+    {
+        "lat": 5.3620957, 
+        "long": -3.9950326, 
+        "name": "IPMC - College of Technology"
+    }, 
+    {
+        "lat": 22.297261, 
+        "long": 46.7202039, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 7.6866087, 
+        "long": -5.0665217, 
+        "name": "Université Alassane Ouattara(UAO)"
+    }, 
+    {
+        "lat": 37.8795527, 
+        "long": 32.485043, 
+        "name": "Konya Necmettin Erbakan Üniversitesi"
+    }, 
+    {
+        "lat": 38.8007693, 
+        "long": 15.2406788, 
+        "name": "Centro INGV Stromboli"
+    }, 
+    {
+        "lat": 34.0851041, 
+        "long": 49.6860489, 
+        "name": "مجتمع جهاد دانشگاهی"
+    }, 
+    {
+        "lat": 34.0781994, 
+        "long": 49.6957602, 
+        "name": "دانشکده فنی و مهندسی"
+    }, 
+    {
+        "lat": 24.1486906, 
+        "long": 47.2718897, 
+        "name": "NA"
+    }, 
+    {
+        "lat": -0.4487496, 
+        "long": 39.6620498, 
+        "name": "Garissa University College"
+    }, 
+    {
+        "lat": 32.8510888, 
+        "long": 13.2232389, 
+        "name": "جامعه طرابلس Tripoli University"
+    }, 
+    {
+        "lat": 12.3774804, 
+        "long": -1.5040399, 
+        "name": "Unité de Formation et de Recherche en Lettres Arts et Communication"
+    }, 
+    {
+        "lat": 35.7421106, 
+        "long": 51.3872737, 
+        "name": "دانشکده دندانپزشکی"
+    }, 
+    {
+        "lat": 35.7282473, 
+        "long": 51.3875185, 
+        "name": "مجتمع کوی دانشگاه تهران"
+    }, 
+    {
+        "lat": 35.7064648, 
+        "long": 51.3939751, 
+        "name": "علوم پزشکی تهران"
+    }, 
+    {
+        "lat": 38.031681, 
+        "long": 46.3801225, 
+        "name": "دانشگاه علوم قضايي"
+    }, 
+    {
+        "lat": 11.1896948, 
+        "long": -4.3239379, 
+        "name": "U-AUBEN"
+    }, 
+    {
+        "lat": 33.9876863, 
+        "long": 51.4424846, 
+        "name": "دانشگاه آزاد"
+    }, 
+    {
+        "lat": 14.7115393, 
+        "long": -17.47819, 
+        "name": "Université du Sahel"
+    }, 
+    {
+        "lat": 12.6265579, 
+        "long": -8.0291626, 
+        "name": "(CENOU) Centre National des Oeuvres Universitaire"
+    }, 
+    {
+        "lat": 12.6236829, 
+        "long": -8.0281127, 
+        "name": "Université Africaine Moderne 73238020"
+    }, 
+    {
+        "lat": 12.6268323, 
+        "long": -8.0294243, 
+        "name": "Ecole Normale d'Enseignement Technique et Professionnel (ENETP)"
+    }, 
+    {
+        "lat": 37.9621474, 
+        "long": 23.7009573, 
+        "name": "Χαροκόπειο Πανεπιστήμιο"
+    }, 
+    {
+        "lat": 12.6366219, 
+        "long": -8.0341055, 
+        "name": "Direction Nationale de l'Enseignement Technique Professionnelle"
+    }, 
+    {
+        "lat": 14.7741424, 
+        "long": -17.3158431, 
+        "name": "ISPM"
+    }, 
+    {
+        "lat": 4.1569649, 
+        "long": 9.277551, 
+        "name": "Buea University"
+    }, 
+    {
+        "lat": 9.544434, 
+        "long": -13.6781835, 
+        "name": "Dpt de médecine"
+    }, 
+    {
+        "lat": 9.5445489, 
+        "long": -13.6780222, 
+        "name": "Laboratoire de statistiques et analyses de données"
+    }, 
+    {
+        "lat": 9.5432412, 
+        "long": -13.6766694, 
+        "name": "Universite Médecine"
+    }, 
+    {
+        "lat": 9.5621001, 
+        "long": 44.0386021, 
+        "name": "Gollis University"
+    }, 
+    {
+        "lat": 9.5621001, 
+        "long": 44.0386021, 
+        "name": "Gollis University"
+    }, 
+    {
+        "lat": 6.5115098, 
+        "long": 2.6078596, 
+        "name": "ERSUMA"
+    }, 
+    {
+        "lat": 37.6015199, 
+        "long": -0.9784922, 
+        "name": "Escuela Técnica Superior de Ingeniería de Telecomunicaciones"
+    }, 
+    {
+        "lat": 12.3728512, 
+        "long": -1.4956881, 
+        "name": "Université Evangélique du Kadiogo"
+    }, 
+    {
+        "lat": 37.339528, 
+        "long": 41.897957, 
+        "name": "Şıtnak Üniversitesi İdil Meslek Yüksekokulu"
+    }, 
+    {
+        "lat": 37.339699, 
+        "long": 41.89815, 
+        "name": "Şırnak Üniversitesi Ziraat Fakültesi"
+    }, 
+    {
+        "lat": 17.0197138, 
+        "long": 54.1101469, 
+        "name": "سوق اللولو"
+    }, 
+    {
+        "lat": 32.8466024, 
+        "long": 51.5419536, 
+        "name": "دانشگاه پیام نور"
+    }, 
+    {
+        "lat": 5.2557335, 
+        "long": -3.9798412, 
+        "name": "Université Nord-Sud"
+    }, 
+    {
+        "lat": 6.4118343, 
+        "long": 2.3398385, 
+        "name": "Institut Confucius"
+    }, 
+    {
+        "lat": 6.4127469, 
+        "long": 2.3410377, 
+        "name": "Institut National de l'Eau"
+    }, 
+    {
+        "lat": 12.4863527, 
+        "long": -8.0518093, 
+        "name": "Universitaire de Kabala"
+    }
+]

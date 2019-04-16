@@ -1,0 +1,587 @@
+[
+    {
+        "lat": 44.4607719, 
+        "long": 26.0948425, 
+        "name": "High Heels"
+    }, 
+    {
+        "lat": 44.4650342, 
+        "long": 26.0870093, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 44.4471129, 
+        "long": 26.0996243, 
+        "name": "Mon Amour"
+    }, 
+    {
+        "lat": 44.4622761, 
+        "long": 26.095147, 
+        "name": "The Eatery"
+    }, 
+    {
+        "lat": 44.4595051, 
+        "long": 26.0958837, 
+        "name": "Randez Vous"
+    }, 
+    {
+        "lat": 44.4469897, 
+        "long": 26.0980765, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 44.4153104, 
+        "long": 26.0800108, 
+        "name": "Mall Liberty"
+    }, 
+    {
+        "lat": 44.4261617, 
+        "long": 26.0992663, 
+        "name": "Angel Cafe"
+    }, 
+    {
+        "lat": 44.4265531, 
+        "long": 26.0992619, 
+        "name": "Dalidana"
+    }, 
+    {
+        "lat": 44.4265938, 
+        "long": 26.0984727, 
+        "name": "Cofetăria Raisa"
+    }, 
+    {
+        "lat": 44.4649798, 
+        "long": 26.088135, 
+        "name": "Cafe Centro"
+    }, 
+    {
+        "lat": 44.4482126, 
+        "long": 26.0995047, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 44.4480533, 
+        "long": 26.0995305, 
+        "name": "Turabo Cafe - Dorobanți"
+    }, 
+    {
+        "lat": 44.4483017, 
+        "long": 26.0963156, 
+        "name": "Cafe Boheme"
+    }, 
+    {
+        "lat": 44.4241732, 
+        "long": 26.1294217, 
+        "name": "Gio Cafe"
+    }, 
+    {
+        "lat": 44.4244107, 
+        "long": 26.129926, 
+        "name": "Puerto Cafe"
+    }, 
+    {
+        "lat": 44.4301734, 
+        "long": 26.1003164, 
+        "name": "Bernschutz and Co"
+    }, 
+    {
+        "lat": 44.4357013, 
+        "long": 26.0993397, 
+        "name": "Demmers Teahouse"
+    }, 
+    {
+        "lat": 44.4354288, 
+        "long": 26.1130593, 
+        "name": "Hobby Cafe"
+    }, 
+    {
+        "lat": 44.440315, 
+        "long": 26.10022, 
+        "name": "Mi-nut"
+    }, 
+    {
+        "lat": 44.4564369, 
+        "long": 26.0773646, 
+        "name": "CAFEA - La Haig Keșkerian"
+    }, 
+    {
+        "lat": 44.4427581, 
+        "long": 26.0791784, 
+        "name": "Ramayana Cafe"
+    }, 
+    {
+        "lat": 44.4276707, 
+        "long": 26.1309008, 
+        "name": "Tress Cafe"
+    }, 
+    {
+        "lat": 44.4206004, 
+        "long": 26.1267344, 
+        "name": "Starbucks"
+    }, 
+    {
+        "lat": 44.458173, 
+        "long": 26.1008368, 
+        "name": "Fitto Cafe"
+    }, 
+    {
+        "lat": 44.4524357, 
+        "long": 26.0827179, 
+        "name": "Starbucks"
+    }, 
+    {
+        "lat": 44.4332437, 
+        "long": 26.099062, 
+        "name": "Carada"
+    }, 
+    {
+        "lat": 44.4439536, 
+        "long": 26.0541495, 
+        "name": "Caffe Bordo"
+    }, 
+    {
+        "lat": 44.4431735, 
+        "long": 26.0998115, 
+        "name": "Grădina Verona"
+    }, 
+    {
+        "lat": 44.4335961, 
+        "long": 26.1000936, 
+        "name": "Cafeneaua liberală"
+    }, 
+    {
+        "lat": 44.4324096, 
+        "long": 26.1001641, 
+        "name": "Van Gogh"
+    }, 
+    {
+        "lat": 44.4323111, 
+        "long": 26.1000767, 
+        "name": "Rembrandt"
+    }, 
+    {
+        "lat": 44.4315349, 
+        "long": 26.0997114, 
+        "name": "Criss"
+    }, 
+    {
+        "lat": 44.4310174, 
+        "long": 26.0996673, 
+        "name": "Les Bourgeois"
+    }, 
+    {
+        "lat": 44.4310497, 
+        "long": 26.0998786, 
+        "name": "Storage Room"
+    }, 
+    {
+        "lat": 44.4304334, 
+        "long": 26.0999543, 
+        "name": "Arcade Cafe"
+    }, 
+    {
+        "lat": 44.430307, 
+        "long": 26.1000241, 
+        "name": "Café Déko"
+    }, 
+    {
+        "lat": 44.4302152, 
+        "long": 26.1001748, 
+        "name": "Buen Humor"
+    }, 
+    {
+        "lat": 44.4299836, 
+        "long": 26.1005493, 
+        "name": "Double Deuce's"
+    }, 
+    {
+        "lat": 44.4302101, 
+        "long": 26.1004126, 
+        "name": "Dolce"
+    }, 
+    {
+        "lat": 44.4309393, 
+        "long": 26.1007007, 
+        "name": "Simbio"
+    }, 
+    {
+        "lat": 44.4311544, 
+        "long": 26.1011567, 
+        "name": "Coco Bongo"
+    }, 
+    {
+        "lat": 44.4313375, 
+        "long": 26.1009207, 
+        "name": "Bistro Latina"
+    }, 
+    {
+        "lat": 44.4315624, 
+        "long": 26.1007881, 
+        "name": "Chez Simon"
+    }, 
+    {
+        "lat": 44.4319301, 
+        "long": 26.1012494, 
+        "name": "La Muse"
+    }, 
+    {
+        "lat": 44.4326072, 
+        "long": 26.1019461, 
+        "name": "Godot"
+    }, 
+    {
+        "lat": 44.4326235, 
+        "long": 26.1024886, 
+        "name": "DDB caffe"
+    }, 
+    {
+        "lat": 44.4428237, 
+        "long": 26.1002984, 
+        "name": "Grădina OAR"
+    }, 
+    {
+        "lat": 44.4527383, 
+        "long": 26.0843003, 
+        "name": "Cafe Antipa"
+    }, 
+    {
+        "lat": 44.433151, 
+        "long": 26.098465, 
+        "name": "Nirvana"
+    }, 
+    {
+        "lat": 44.4331619, 
+        "long": 26.0986036, 
+        "name": "Valea Regilor"
+    }, 
+    {
+        "lat": 44.4396159, 
+        "long": 26.1213002, 
+        "name": "Cafe Lautrec"
+    }, 
+    {
+        "lat": 44.4664237, 
+        "long": 26.0672212, 
+        "name": "French Bakery"
+    }, 
+    {
+        "lat": 44.4619221, 
+        "long": 26.0946729, 
+        "name": "Chocolat"
+    }, 
+    {
+        "lat": 44.4344595, 
+        "long": 26.0904145, 
+        "name": "Cafeneaua \"Dolce\""
+    }, 
+    {
+        "lat": 44.4342635, 
+        "long": 26.0898514, 
+        "name": "Kafeterya Cafe"
+    }, 
+    {
+        "lat": 44.4302047, 
+        "long": 26.1006243, 
+        "name": "Gelato Mio"
+    }, 
+    {
+        "lat": 44.4140231, 
+        "long": 26.0941075, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 44.437293, 
+        "long": 26.0969895, 
+        "name": "Nana"
+    }, 
+    {
+        "lat": 44.4296499, 
+        "long": 26.1168865, 
+        "name": "Adior Cafe lounge"
+    }, 
+    {
+        "lat": 44.4243201, 
+        "long": 26.1191998, 
+        "name": "gloria jeans coffee"
+    }, 
+    {
+        "lat": 44.4523748, 
+        "long": 26.0970686, 
+        "name": "Reader's Cafe"
+    }, 
+    {
+        "lat": 44.4393597, 
+        "long": 26.0530025, 
+        "name": "NA"
+    }, 
+    {
+        "lat": 44.4382997, 
+        "long": 26.0875726, 
+        "name": "Caffeine & Latte"
+    }, 
+    {
+        "lat": 44.4413476, 
+        "long": 26.1045142, 
+        "name": "Hobby Caffe & Shop"
+    }, 
+    {
+        "lat": 44.4320794, 
+        "long": 26.104604, 
+        "name": "ART Cafe"
+    }, 
+    {
+        "lat": 44.4642155, 
+        "long": 26.0959066, 
+        "name": "Ambiance Caffe"
+    }, 
+    {
+        "lat": 44.4298134, 
+        "long": 26.1346728, 
+        "name": "Lolly Pop"
+    }, 
+    {
+        "lat": 44.4296777, 
+        "long": 26.1344135, 
+        "name": "Cafe Pink"
+    }, 
+    {
+        "lat": 44.4292362, 
+        "long": 26.0603874, 
+        "name": "Blitz Caffe"
+    }, 
+    {
+        "lat": 44.4401415, 
+        "long": 26.0864865, 
+        "name": "Bouche Bee"
+    }, 
+    {
+        "lat": 44.4403904, 
+        "long": 26.0985769, 
+        "name": "Zvon Caffe"
+    }, 
+    {
+        "lat": 44.4354346, 
+        "long": 26.1066322, 
+        "name": "The Living Room"
+    }, 
+    {
+        "lat": 44.4466809, 
+        "long": 26.0997889, 
+        "name": "Music Rooms Cafe"
+    }, 
+    {
+        "lat": 44.4373544, 
+        "long": 26.1131578, 
+        "name": "Carla Caffe"
+    }, 
+    {
+        "lat": 44.4410916, 
+        "long": 26.1046062, 
+        "name": "Newton Caffe"
+    }, 
+    {
+        "lat": 44.4236286, 
+        "long": 26.1139701, 
+        "name": "Zebra Caffe"
+    }, 
+    {
+        "lat": 44.4332255, 
+        "long": 26.098193, 
+        "name": "Aida Caffe"
+    }, 
+    {
+        "lat": 44.430111, 
+        "long": 26.0978984, 
+        "name": "Bio Cream gelateria"
+    }, 
+    {
+        "lat": 44.4332517, 
+        "long": 26.0985248, 
+        "name": "Blues Cafe"
+    }, 
+    {
+        "lat": 44.430327, 
+        "long": 26.1002035, 
+        "name": "Crepes & Gelato artigianale"
+    }, 
+    {
+        "lat": 44.4331836, 
+        "long": 26.0983433, 
+        "name": "INDIEpendent"
+    }, 
+    {
+        "lat": 44.4326454, 
+        "long": 26.1027949, 
+        "name": "Iguana Cafe"
+    }, 
+    {
+        "lat": 44.4323543, 
+        "long": 26.1001208, 
+        "name": "Klein Cafe"
+    }, 
+    {
+        "lat": 44.4306923, 
+        "long": 26.1001372, 
+        "name": "Switch"
+    }, 
+    {
+        "lat": 44.4299419, 
+        "long": 26.1022892, 
+        "name": "Testa Rossa Caffebar"
+    }, 
+    {
+        "lat": 44.4302222, 
+        "long": 26.0999312, 
+        "name": "Unique"
+    }, 
+    {
+        "lat": 44.4309912, 
+        "long": 26.1014571, 
+        "name": "Bruno wine and coffe shop"
+    }, 
+    {
+        "lat": 44.4309547, 
+        "long": 26.1015535, 
+        "name": "La delicii"
+    }, 
+    {
+        "lat": 44.4251627, 
+        "long": 26.1308072, 
+        "name": "Habana Coffe"
+    }, 
+    {
+        "lat": 44.4204982, 
+        "long": 26.1015432, 
+        "name": "Café Torino"
+    }, 
+    {
+        "lat": 44.440868, 
+        "long": 26.104665, 
+        "name": "Vesuvio Cafe"
+    }, 
+    {
+        "lat": 44.4274707, 
+        "long": 26.1306162, 
+        "name": "Smile Cafe"
+    }, 
+    {
+        "lat": 44.4274682, 
+        "long": 26.1315342, 
+        "name": "Momentto Cafe"
+    }, 
+    {
+        "lat": 44.4508209, 
+        "long": 26.0873527, 
+        "name": "Admiral Cafe"
+    }, 
+    {
+        "lat": 44.431406, 
+        "long": 26.1093809, 
+        "name": "Art Caffe"
+    }, 
+    {
+        "lat": 44.4394632, 
+        "long": 26.0986917, 
+        "name": "Cafeneaua Arhitectilor"
+    }, 
+    {
+        "lat": 44.4472363, 
+        "long": 26.095776, 
+        "name": "Cafe 3"
+    }, 
+    {
+        "lat": 44.4518556, 
+        "long": 26.0823746, 
+        "name": "Gloria Jean's"
+    }, 
+    {
+        "lat": 44.4448415, 
+        "long": 26.0858195, 
+        "name": "J'ai Bistrot"
+    }, 
+    {
+        "lat": 44.4343707, 
+        "long": 26.0820248, 
+        "name": "Dante Cafe"
+    }, 
+    {
+        "lat": 44.4397289, 
+        "long": 26.1246938, 
+        "name": "So bistro-cafe"
+    }, 
+    {
+        "lat": 44.4447018, 
+        "long": 26.0983429, 
+        "name": "Nescafé Milano"
+    }, 
+    {
+        "lat": 44.4301888, 
+        "long": 26.1351361, 
+        "name": "Loka"
+    }, 
+    {
+        "lat": 44.4485095, 
+        "long": 26.1245165, 
+        "name": "Slot Cafe"
+    }, 
+    {
+        "lat": 44.4332107, 
+        "long": 26.0952613, 
+        "name": "Origo"
+    }, 
+    {
+        "lat": 44.4337541, 
+        "long": 26.0777647, 
+        "name": "Roland 1811 café"
+    }, 
+    {
+        "lat": 44.4377724, 
+        "long": 26.1106269, 
+        "name": "Lente Arcului"
+    }, 
+    {
+        "lat": 44.4406015, 
+        "long": 26.1035451, 
+        "name": "Lente Praporgescu"
+    }, 
+    {
+        "lat": 44.4584282, 
+        "long": 26.0787845, 
+        "name": "Seneca AntiCafe"
+    }, 
+    {
+        "lat": 44.4478693, 
+        "long": 26.0996442, 
+        "name": "Tucano Coffee"
+    }, 
+    {
+        "lat": 44.4231622, 
+        "long": 26.0641395, 
+        "name": "Anturaj Caffe"
+    }, 
+    {
+        "lat": 44.4489145, 
+        "long": 26.1055008, 
+        "name": "Smart Change"
+    }, 
+    {
+        "lat": 44.4261729, 
+        "long": 26.1255589, 
+        "name": "La Trenulețe"
+    }, 
+    {
+        "lat": 44.448063, 
+        "long": 26.1018993, 
+        "name": "Fantasia Club"
+    }, 
+    {
+        "lat": 44.4481055, 
+        "long": 26.1061594, 
+        "name": "Shiva"
+    }, 
+    {
+        "lat": 44.4452367, 
+        "long": 26.1312457, 
+        "name": "Caffe Tabiet"
+    }
+]
